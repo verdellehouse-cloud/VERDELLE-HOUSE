@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream text-navy font-sans antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-3 bg-navy text-cream font-sans text-xs tracking-widest uppercase transition-all duration-300 hover:bg-bronze focus:outline-none focus:ring-2 focus:ring-bronze focus:ring-offset-2 focus:ring-offset-cream;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-8 py-3 border border-navy text-navy font-sans text-xs tracking-widest uppercase transition-all duration-300 hover:bg-navy hover:text-cream focus:outline-none;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center px-6 py-2 text-navy font-sans text-xs tracking-widest uppercase transition-all duration-300 hover:text-bronze focus:outline-none;
+  }
+
+  .section-divider {
+    @apply w-16 h-px bg-bronze mx-auto my-6;
+  }
+
+  .section-divider-left {
+    @apply w-16 h-px bg-bronze my-4;
+  }
+
+  .label-tag {
+    @apply font-sans text-xs tracking-ultra uppercase text-stone;
+  }
+
+  .heading-display {
+    @apply font-serif font-light text-navy leading-tight;
+  }
+
+  .product-card-image {
+    @apply relative overflow-hidden bg-cream-light;
+  }
+
+  .product-card-image img {
+    @apply w-full h-full object-cover transition-transform duration-700 ease-luxury;
+  }
+
+  .product-card-image:hover img {
+    @apply scale-105;
+  }
+
+  .fade-in-section {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+  }
+
+  .fade-in-section.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .nav-link {
+    @apply font-sans text-xs tracking-ultra uppercase text-navy transition-colors duration-200 hover:text-bronze relative;
+  }
+
+  .nav-link::after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-0 h-px bg-bronze transition-all duration-300;
+  }
+
+  .nav-link:hover::after,
+  .nav-link.active::after {
+    @apply w-full;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Custom scrollbar for desktop */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F3E4C9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8B5E3C;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0A2947;
+}
+
+/* Page transitions */
+.page-enter {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+}
