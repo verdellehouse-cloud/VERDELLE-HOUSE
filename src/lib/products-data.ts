@@ -3689,7 +3689,39 @@ export const PRODUCTS: Product[] = [
     compare_at_price: null,
     currency: 'USD',
     sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '10.5', '11' , '12'],
-    colors: [' Stiletto_black' ,'Black', 'Black Leather', 'Block-blackpatent', 'Block-brownpu', 'Block-chocolatesuede', 'Block-goldpatent','Block-nudepu', 'Block-whitepu' , 'Burgundy' , 'Chocolate Brown' ,'Coffee Brown' , 'Pumps_black Pu' , 'Pumps_brown Pu' , 'Pumps_brown Suede' , 'Pumps_gold Pu' , 'Pumps_nude Pu' , 'White Leather' , 'Brown' , 'Brown Mesh' , 'Camel Suede' ,'Dark Brown Suede' , 'Gold' , 'Nude' , 'Closed-black Patent' , 'Closed-burgundy Patent' ,'Closed-gold Patent' , 'Closed-nude Patent' ,'Closed-white' , 'Closed-silver Matte' ,'Leopard Suede' ,' Closed-brown'],
+    colors: [
+      'Stiletto_black' ,
+      'Black', 
+      'Black Leather', 
+      'Block-blackpatent', 
+      'Block-brownpu', 
+      'Block-chocolatesuede', 
+      'Block-goldpatent', 
+      'Block-nudepu', 
+      'Block-whitepu', 
+      'Burgundy', 
+      'Chocolate Brown',
+      'Coffee Brown', 
+      'Pumps_black Pu', 
+      'Pumps_brown Pu' , 
+      'Pumps_brown Suede', 
+      'Pumps_gold Pu', 
+      'Pumps_nude Pu', 
+      'White Leather', 
+      'Brown', 
+      'Brown Mesh', 
+      'Camel Suede',
+      'Dark Brown Suede', 
+      'Gold', 
+      'Nude', 
+      'Closed-black Patent', 
+      'Closed-burgundy Patent',
+      'Closed-gold Patent', 
+      'Closed-nude Patent',
+      'Closed-white', 
+      'Closed-silver Matte',
+      'Leopard Suede',
+      'Closed-brown'],
     material: 'Sole material: Rubber, Outer material: Patent, Closure type: Buckle',
     badge: 'new',
     images: [
@@ -3719,14 +3751,18 @@ export const PRODUCTS: Product[] = [
     id: 'p-509',
     name: 'RIBONGZ Block Heels for Women Closed Pointed Toe Heeled Slingback Chunky High Heel Ankle Strap Pumps Patent Leather Comfort Dressy Shoes for Work Party Prom Wedding Bridal Dress',
     brand_line: 'Amazon',
-    description: 'Step into refined elegance with these exquisite gold slingback kitten heels, thoughtfully crafted for the woman who appreciates timeless sophistication. The sleek pointed-toe silhouette pairs beautifully with a graceful 3-inch (7.5cm) stiletto heel, elongating your legs while delivering a flattering, statement-making shape. Finished with an adjustable slingback strap for a secure, tailored fit and a plush cushioned insole for lasting comfort, these versatile heels transition effortlessly from polished office days to elegant evening affairs. Whether you're headed to a wedding, anniversary celebration, prom, date night, or Sunday service, this luxe gold hue and classic silhouette ensure you'll always step out in style.',
-      highlights: [
-        'SLINGBACK HEELS: Gold kitten heels with a 3-inch (7.5cm) stiletto heel that elongates your legs for a sophisticated, alluring silhouette.',
-        'POINTED TOE DESIGN: Closed-toe, pointed-toe styling offers a timeless look that suits every season, balancing elegance, comfort, and lightweight wear.',
-        'EASY SLIP-ON FIT: Adjustable back slingback straps provide a snug, secure, and convenient fit for effortless wear.',
-        'ALL-DAY COMFORT: Soft, cushioned insoles relieve tired feet, making these pumps ideal for the office, church, or long days on your feet.',
-        'VERSATILE FOR ANY OCCASION: Seamlessly transitions from work to evening — perfect for weddings, anniversaries, parties, dates, and proms.',
-      ],
+    description: `Step into timeless elegance with these gold slingback kitten heels, featuring a sleek pointed-toe silhouette and a graceful 3-inch stiletto heel that elongates your legs for a flattering, statement-making shape. The adjustable slingback strap ensures a secure, tailored fit, while the plush cushioned insole delivers lasting comfort from morning to night. Versatile enough to transition from polished office days to elegant evening affairs, this luxe gold hue is perfect for weddings, anniversaries, proms, date nights, or Sunday service.`,
+    highlights: [
+      'Gold slingback design with a 3-inch stiletto heel elongates the legs for a sophisticated, alluring silhouette',
+
+      'Closed pointed-toe styling offers a timeless look that balances elegance, comfort, and lightweight wear',
+
+      'Adjustable back slingback strap provides a snug, secure, and convenient fit for effortless wear',
+
+      'Soft cushioned insoles relieve tired feet, ideal for the office, church, or long days on your feet',
+
+      'Versatile for weddings, anniversaries, parties, dates, and proms, transitioning seamlessly from work to evening',
+    ],
     gender: 'women',
     category: 'shoes',
     price: 35.98,
@@ -3753,6 +3789,43 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-04-15T09:00:00Z',
   },
 
+  {
+    id: 'p-510',
+    name: 'Women Kitten Heels Pointed Toe Flower Slip on Pumps Wedding Shoes | Comfortable Closed Toe Ankle Strap Elegant Low Heels Casual Dress Shoes for Party Wedding Office Work and Daily Wear',
+    brand_line: 'Amazon',
+    description: `Elevate your look with these elegant pointed toe kitten heel pumps, featuring a comfortable 2.2 inch heel that provides support for long periods of wear while enhancing your leg lines for a slimming effect. The playful flower design and elastic ankle strap add a charming touch, while the pointed, V-shaped front and open side design highlight feminine sophistication. Made from soft materials with a cushioned insole, these pumps are comfortable enough for all-day wear. Versatile enough to pair with dresses, pants, or skirts, these heels are perfect for parties, weddings, work, or everyday elegance.`,
+    highlights: [
+      'Comfortable 2.2 inch kitten heel provides support for long wear while enhancing leg lines',
+
+      'Playful flower design and elastic ankle strap add a charming, feminine touch',
+
+      'Pointed toe with V-shaped front and open side design highlights elegant sophistication',
+
+      'Soft materials and cushioned insoles make these pumps comfortable enough for all-day wear',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 29.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '7', '7.5', '8', '8.5' , '9', '9.5' , '10' ],
+    colors: ['Beige Pu' ,'Pink Pu', 'Red-suede', 'Black Pu', 'Apricot-suede', 'Black-suede', 'Blue-suede'],
+    material: 'Sole material: Polyurethane (PU), Outer material: Polyurethane (PU), Closure type: Elastic, Origin: Imported',
+    badge: 'new',
+    images: [
+      '/510 (1).png',
+      '/510 (2).png',
+      '/510 (3).png',
+      '/510 (4).png',
+      '/510 (5).png',
+      '/510 (6).png',
+      '/510 (7).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
 
 
 
