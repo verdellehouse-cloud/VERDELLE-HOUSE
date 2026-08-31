@@ -3715,6 +3715,47 @@ export const PRODUCTS: Product[] = [
   },
 
 
+  {
+    id: 'p-509',
+    name: 'RIBONGZ Block Heels for Women Closed Pointed Toe Heeled Slingback Chunky High Heel Ankle Strap Pumps Patent Leather Comfort Dressy Shoes for Work Party Prom Wedding Bridal Dress',
+    brand_line: 'Amazon',
+    description: `Put your best foot forward with these elegant closed toe pumps, crafted from soft manmade leather with a fashionable pointed toe and unique d'Orsay silhouette. The classic kitten heel, under 3 inches, keeps you steady and comfortable no matter the occasion, while the breathable padded insole and non-slip rubber sole ensure all-day comfort and durability. Available in a range of versatile colors including black, white, nude, pink, and red, these dressy low heels pair perfectly with skirts, suits, or jeans for work, weddings, parties, or everyday wear.`,
+    highlights: [
+      'Made of soft manmade leather with breathable padded insoles and non-slip rubber soles for durability and all-day comfort',
+
+      'Fashionable pointed toe d/ Orsay design with a classic kitten heel under 3 inches for steady, stylish wear',
+
+      'Available in versatile colors including black, white, nude, pink, and red to suit any style',
+
+      'Perfect for work, weddings, parties, shopping, or casual and formal events, pairing well with skirts, suits, or jeans',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 35.98,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['5', '5.5', '6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11' ],
+    colors: [' Burgundy#01' ,' Black #02', 'Burgundy #02', 'White#01', 'Black Pu#01', 'Nude#01', 'Cream #02','Gold#01'],
+    material: 'Sole material: Rubber, Outer material: Faux Leather, Closure type: Buckle , Water resistance level: Not Water Resistant,',
+    badge: 'new',
+    images: [
+      '/509 (1).png',
+      '/509 (2).png',
+      '/509 (3).png',
+      '/509 (4).png',
+      '/509 (5).png',
+      '/509 (6).png',
+      '/509 (7).png',
+      '/509 (8).png',
+      '/509 (9).png',
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+
 
 
 
