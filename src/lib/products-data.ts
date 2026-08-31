@@ -3719,16 +3719,14 @@ export const PRODUCTS: Product[] = [
     id: 'p-509',
     name: 'RIBONGZ Block Heels for Women Closed Pointed Toe Heeled Slingback Chunky High Heel Ankle Strap Pumps Patent Leather Comfort Dressy Shoes for Work Party Prom Wedding Bridal Dress',
     brand_line: 'Amazon',
-    description: `Put your best foot forward with these elegant closed toe pumps, crafted from soft manmade leather with a fashionable pointed toe and unique d'Orsay silhouette. The classic kitten heel, under 3 inches, keeps you steady and comfortable no matter the occasion, while the breathable padded insole and non-slip rubber sole ensure all-day comfort and durability. Available in a range of versatile colors including black, white, nude, pink, and red, these dressy low heels pair perfectly with skirts, suits, or jeans for work, weddings, parties, or everyday wear.`,
-    highlights: [
-      'Made of soft manmade leather with breathable padded insoles and non-slip rubber soles for durability and all-day comfort',
-
-      'Fashionable pointed toe d/ Orsay design with a classic kitten heel under 3 inches for steady, stylish wear',
-
-      'Available in versatile colors including black, white, nude, pink, and red to suit any style',
-
-      'Perfect for work, weddings, parties, shopping, or casual and formal events, pairing well with skirts, suits, or jeans',
-    ],
+    description: 'Step into refined elegance with these exquisite gold slingback kitten heels, thoughtfully crafted for the woman who appreciates timeless sophistication. The sleek pointed-toe silhouette pairs beautifully with a graceful 3-inch (7.5cm) stiletto heel, elongating your legs while delivering a flattering, statement-making shape. Finished with an adjustable slingback strap for a secure, tailored fit and a plush cushioned insole for lasting comfort, these versatile heels transition effortlessly from polished office days to elegant evening affairs. Whether you're headed to a wedding, anniversary celebration, prom, date night, or Sunday service, this luxe gold hue and classic silhouette ensure you'll always step out in style.',
+      highlights: [
+        'SLINGBACK HEELS: Gold kitten heels with a 3-inch (7.5cm) stiletto heel that elongates your legs for a sophisticated, alluring silhouette.',
+        'POINTED TOE DESIGN: Closed-toe, pointed-toe styling offers a timeless look that suits every season, balancing elegance, comfort, and lightweight wear.',
+        'EASY SLIP-ON FIT: Adjustable back slingback straps provide a snug, secure, and convenient fit for effortless wear.',
+        'ALL-DAY COMFORT: Soft, cushioned insoles relieve tired feet, making these pumps ideal for the office, church, or long days on your feet.',
+        'VERSATILE FOR ANY OCCASION: Seamlessly transitions from work to evening — perfect for weddings, anniversaries, parties, dates, and proms.',
+      ],
     gender: 'women',
     category: 'shoes',
     price: 35.98,
