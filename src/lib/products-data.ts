@@ -3715,6 +3715,45 @@ export const PRODUCTS: Product[] = [
   },
 
 
+  {
+    id: 'p-509',
+    name: 'RIBONGZ Block Heels for Women Closed Pointed Toe Heeled Slingback Chunky High Heel Ankle Strap Pumps Patent Leather Comfort Dressy Shoes for Work Party Prom Wedding Bridal Dress',
+    brand_line: 'Amazon',
+    description: 'Step into refined elegance with these exquisite gold slingback kitten heels, thoughtfully crafted for the woman who appreciates timeless sophistication. The sleek pointed-toe silhouette pairs beautifully with a graceful 3-inch (7.5cm) stiletto heel, elongating your legs while delivering a flattering, statement-making shape. Finished with an adjustable slingback strap for a secure, tailored fit and a plush cushioned insole for lasting comfort, these versatile heels transition effortlessly from polished office days to elegant evening affairs. Whether you're headed to a wedding, anniversary celebration, prom, date night, or Sunday service, this luxe gold hue and classic silhouette ensure you'll always step out in style.',
+      highlights: [
+        'SLINGBACK HEELS: Gold kitten heels with a 3-inch (7.5cm) stiletto heel that elongates your legs for a sophisticated, alluring silhouette.',
+        'POINTED TOE DESIGN: Closed-toe, pointed-toe styling offers a timeless look that suits every season, balancing elegance, comfort, and lightweight wear.',
+        'EASY SLIP-ON FIT: Adjustable back slingback straps provide a snug, secure, and convenient fit for effortless wear.',
+        'ALL-DAY COMFORT: Soft, cushioned insoles relieve tired feet, making these pumps ideal for the office, church, or long days on your feet.',
+        'VERSATILE FOR ANY OCCASION: Seamlessly transitions from work to evening — perfect for weddings, anniversaries, parties, dates, and proms.',
+      ],
+    gender: 'women',
+    category: 'shoes',
+    price: 35.98,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['5', '5.5', '6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11' ],
+    colors: [' Burgundy#01' ,' Black #02', 'Burgundy #02', 'White#01', 'Black Pu#01', 'Nude#01', 'Cream #02','Gold#01'],
+    material: 'Sole material: Rubber, Outer material: Faux Leather, Closure type: Buckle , Water resistance level: Not Water Resistant,',
+    badge: 'new',
+    images: [
+      '/509 (1).png',
+      '/509 (2).png',
+      '/509 (3).png',
+      '/509 (4).png',
+      '/509 (5).png',
+      '/509 (6).png',
+      '/509 (7).png',
+      '/509 (8).png',
+      '/509 (9).png',
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+
 
 
 
