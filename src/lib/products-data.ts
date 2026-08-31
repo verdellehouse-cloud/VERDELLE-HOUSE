@@ -3689,7 +3689,7 @@ export const PRODUCTS: Product[] = [
     compare_at_price: null,
     currency: 'USD',
     sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '10.5', '11' , '12'],
-    colors: [' Stiletto_black' ,'Black', 'Black Leather', 'Block-blackpatent', 'Navy', 'Brown', 'Black Pu','Pink', 'Red' , 'White' , 'Nude/Suede'],
+    colors: [' Stiletto_black' ,'Black', 'Black Leather', 'Block-blackpatent', 'Block-brownpu', 'Block-chocolatesuede', 'Block-goldpatent','Block-nudepu', 'Block-whitepu' , 'Burgundy' , 'Chocolate Brown' ,'Coffee Brown' , 'Pumps_black Pu' , 'Pumps_brown Pu' , 'Pumps_brown Suede' , 'Pumps_gold Pu' , 'Pumps_nude Pu' , 'White Leather' , 'Brown' , 'Brown Mesh' , 'Camel Suede' ,'Dark Brown Suede' , 'Gold' , 'Nude' , 'Closed-black Patent' , 'Closed-burgundy Patent' ,'Closed-gold Patent' , 'Closed-nude Patent' ,'Closed-white' , 'Closed-silver Matte' ,'Leopard Suede' ,' Closed-brown'],
     material: 'Sole material: Rubber, Outer material: Patent, Closure type: Buckle',
     badge: 'new',
     images: [
