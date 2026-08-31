@@ -316,37 +316,37 @@ export const PRODUCTS: Product[] = [
       '/4 (3).png',
       '/4 (4).png', 
       '/4 (5).png', 
-      '/4 (6).png ',
-      '/4 (7).png ',
-      '/4 (8).png ',
-      '/4 (9).png ',
-      '/4 (10).png ',
-      '/4 (11).png ',
-      '/4 (12).png ',
+      '/4 (6).png',
+      '/4 (7).png',
+      '/4 (8).png',
+      '/4 (9).png',
+      '/4 (10).png',
+      '/4 (11).png',
+      '/4 (12).png',
       '/4 (13).png', 
-      '/4 (14).png ',
-      '/4 (15).png ',
-      '/4 (16).png ',
-      '/4 (17).png ',
-      '/4 (18).png ',
-      '/4 (19).png ',
-      '/4 (20).png ',
-      '/4 (21).png ',
-      '/4 (22).png ',
-      '/4 (23).png ',
-      '/4 (24).png ',
-      '/4 (25).png ',
-      '/4 (26).png ',
-      '/4 (27).png ',
-      '/4 (28).png ',
-      '/4 (29).png ',
-      '/4 (30).png ',
-      '/4 (31).png ',
-      '/4 (32).png ',
-      '/4 (33).png ',
-      '/4 (34).png ',
-      '/4 (35).png ',
-      '/4 (36).png ',
+      '/4 (14).png',
+      '/4 (15).png',
+      '/4 (16).png',
+      '/4 (17).png',
+      '/4 (18).png',
+      '/4 (19).png',
+      '/4 (20).png',
+      '/4 (21).png',
+      '/4 (22).png',
+      '/4 (23).png',
+      '/4 (24).png',
+      '/4 (25).png',
+      '/4 (26).png',
+      '/4 (27).png',
+      '/4 (28).png',
+      '/4 (29).png',
+      '/4 (30).png',
+      '/4 (31).png',
+      '/4 (32).png',
+      '/4 (33).png',
+      '/4 (34).png',
+      '/4 (35).png',
+      '/4 (36).png',
       '/4 (37).png',
       '/4 (38).png',
     ],
@@ -3328,7 +3328,7 @@ export const PRODUCTS: Product[] = [
 
               // SHOESSSSSS 
   {
-    id: 'p-014',
+    id: 'p-500',
     name: 'Womens Comfortable & Lightweight Leather Loafers Slip-Ons Driving Walking Mocs Boat Shoes Cute Business Casual Dress Shoes Work Flats for Women',
     brand_line: null,
     description: `Experience the perfect balance of comfort, elegance, and practicality with these premium slip-on shoes, thoughtfully designed for women who are always on the move. Crafted from high-quality microfiber vegan leather, they offer a soft, flexible fit that naturally molds to your feet for exceptional comfort from the very first wear. The lightweight construction helps reduce foot fatigue during long hours of walking, while the breathable design keeps your feet cool and comfortable throughout the day. Featuring removable memory foam insoles with gentle arch support and enhanced heel cushioning, these shoes provide superior comfort with every step. The durable non-slip PU outsole delivers reliable traction and stability across various surfaces, giving you confidence wherever your day takes you. Designed with a convenient pull-on style, they eliminate the hassle of laces or zippers, making them quick and easy to wear. Whether you're commuting to work, walking around campus, shopping, traveling, attending church, enjoying vacations, or simply running daily errands, these versatile shoes combine timeless style, lasting comfort, and dependable performance for every occasion.`,
@@ -3397,7 +3397,7 @@ export const PRODUCTS: Product[] = [
     created_at: '2025-12-20T09:00:00Z',
   },
   {
-    id: 'p-020',
+    id: 'p-501',
     name: 'Perphy Ankle Strap Stone Printed Chunky Heel Bow Sandals for Women',
     brand_line: 'Amazon',
     description: `Make a statement with these eye-catching chunky heel sandals, featuring a chic stone-printed faux leather vamp and a playful mesh bow tie detail. The open-toe silhouette and secure ankle strap offer both style and stability, while the 3.3-inch chunky heel adds height without sacrificing comfort. Perfect for parties or any occasion where you want to stand out, these versatile sandals pair effortlessly with jeans, pants, or skirts for a look that's always in fashion.`,
@@ -3429,7 +3429,7 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-06-05T09:00:00Z',
   },
   {
-    id: 'p-009',
+    id: 'p-502',
     name: 'Hunter Womens Original Chelsea Boot',
     brand_line: null,
     description: `Stay dry and comfortable no matter the forecast with these all-weather boots, engineered for reliable protection and all-day wearability. A fully waterproof construction keeps moisture out while breathable comfort technology keeps your feet feeling great from morning to night. Built with durable, element-proof rubber and designed for optimized flexibility, these boots move with you through every step of your active lifestyle.`,
@@ -3467,7 +3467,7 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-04-22T09:00:00Z',
   },
   {
-    id: 'p-003',
+    id: 'p-503',
     name: 'Womens Bow Knot Heeled Sandals Bowknot Pleated Ankle Strap Open Toe Chunky High Heels Wedding Bridal Party Dress Shoes',
     brand_line: 'Amazon',
     description: `Elevate your special occasion look with these elegant pleated bow block heel sandals. Featuring a chic bow design on the vamp and a stylish black chunky heel, these sandals are the perfect blend of sophistication and comfort. The adjustable ankle strap ensures a secure, customized fit and makes them easy to slip on and off, while the soft padded insole and anti-slip outsole keep you comfortable all day or night. Versatile enough for weddings, parties, proms, or everyday wear, these sandals are a must-have addition to any shoe collection.`,
@@ -3503,8 +3503,8 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-04-15T09:00:00Z',
   },
-   {
-    id: 'p-021',
+  {
+    id: 'p-504',
     name: 'Ankis Heels for Women Open Toe Ankle Strap Chunky Heel Sandals 2.75 Inch',
     brand_line: 'Amazon',
     description: `Enjoy stable, elevated style with these versatile chunky heel sandals, designed for all-day comfort and wear. The 2.75-inch heel paired with a slip-resistant outsole delivers a secure, fatigue-reducing stride, while the upgraded 5mm soft insole conforms to your foot's natural curves for lasting comfort. The adjustable 7-hole buckle ankle strap lets you customize your fit throughout the day, whether you're accommodating foot swelling or locking in a secure hold on the dance floor. Available in a diverse range of colors and materials, from smooth leather to glitter finishes, these sandals are the perfect match for weddings, parties, office wear, dates, and everything in between.`,
@@ -3552,7 +3552,7 @@ export const PRODUCTS: Product[] = [
   },
 
   {
-    id: 'p-022',
+    id: 'p-505',
     name: 'Adrizzlein Womens Strappy Kitten Heels with Ankle Straps Party Prom Sandals | Square Open Toe, 3 Inch Heels, Stiletto Mid Heel, Dressy Summer Heel for Wedding, Wrap Around Heeled Sandals, Kitten Heels',
     brand_line: 'Amazon',
     description: `Step into effortless elegance with these strappy lace-up kitten heel sandals. The ankle and calf wrap design offers flexible, personalized adjustment for a chic, sexy look, while the comfortable low kitten heel makes them easy to wear for long hours without sacrificing style. A modern square open toe adds a fashionable edge and enhances breathability, and the soft insole conforms to your arch for all-day support. Whether paired with dresses, jeans, wide-leg pants, or skirts, these versatile sandals are perfect for weddings, dates, parties, vacations, or everyday wear.`,
@@ -3589,7 +3589,7 @@ export const PRODUCTS: Product[] = [
   },
 
   {
-    id: 'p-023',
+    id: 'p-506',
     name: 'Ankis Heels for Women Open Toe Ankle Strap Chunky Heel Sandals 2.75 Inch',
     brand_line: 'Amazon',
     description: `Enjoy stable, elevated style with these versatile chunky heel sandals, designed for all-day comfort and wear. The 2.75-inch heel paired with a slip-resistant outsole delivers a secure, fatigue-reducing stride, while the upgraded 5mm soft insole conforms to your foot's natural curves for lasting comfort. The adjustable 7-hole buckle ankle strap lets you customize your fit throughout the day, whether you're accommodating foot swelling or locking in a secure hold on the dance floor. Available in a diverse range of colors and materials, from smooth leather to glitter finishes, these sandals are the perfect match for weddings, parties, office wear, dates, and everything in between.`,
@@ -3628,8 +3628,8 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-04-15T09:00:00Z',
   },
 
-    {
-    id: 'p-024',
+  {
+    id: 'p-507',
     name: 'JENN ARDOR Womens Pumps Low Heels Pointed Closed Toe Kitten Dress Shoes for Women Comfortable Stiletto Heeled Sandals Classic Wedding Party D-Orsay Work Pumps',
     brand_line: 'Amazon',
     description: `Put your best foot forward with these elegant closed toe pumps, crafted from soft manmade leather with a fashionable pointed toe and unique d'Orsay silhouette. The classic kitten heel, under 3 inches, keeps you steady and comfortable no matter the occasion, while the breathable padded insole and non-slip rubber sole ensure all-day comfort and durability. Available in a range of versatile colors including black, white, nude, pink, and red, these dressy low heels pair perfectly with skirts, suits, or jeans for work, weddings, parties, or everyday wear.`,
@@ -3669,6 +3669,50 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-04-15T09:00:00Z',
   },
 
+  {
+    id: 'p-508',
+    name: 'RIBONGZ Block Heels for Women Closed Pointed Toe Heeled Slingback Chunky High Heel Ankle Strap Pumps Patent Leather Comfort Dressy Shoes for Work Party Prom Wedding Bridal Dress',
+    brand_line: 'Amazon',
+    description: `Put your best foot forward with these elegant closed toe pumps, crafted from soft manmade leather with a fashionable pointed toe and unique d'Orsay silhouette. The classic kitten heel, under 3 inches, keeps you steady and comfortable no matter the occasion, while the breathable padded insole and non-slip rubber sole ensure all-day comfort and durability. Available in a range of versatile colors including black, white, nude, pink, and red, these dressy low heels pair perfectly with skirts, suits, or jeans for work, weddings, parties, or everyday wear.`,
+    highlights: [
+      'Made of soft manmade leather with breathable padded insoles and non-slip rubber soles for durability and all-day comfort',
+
+      'Fashionable pointed toe d/ Orsay design with a classic kitten heel under 3 inches for steady, stylish wear',
+
+      'Available in versatile colors including black, white, nude, pink, and red to suit any style',
+
+      'Perfect for work, weddings, parties, shopping, or casual and formal events, pairing well with skirts, suits, or jeans',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 29.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '10.5', '11' , '12'],
+    colors: [' Stiletto_black' ,'Black', 'Black Leather', 'Block-blackpatent', 'Navy', 'Brown', 'Black Pu','Pink', 'Red' , 'White' , 'Nude/Suede'],
+    material: 'Sole material: Rubber, Outer material: Patent, Closure type: Buckle',
+    badge: 'new',
+    images: [
+      '/508 (1).png',
+      '/508 (2).png',
+      '/508 (3).png',
+      '/508 (4).png',
+      '/508 (5).png',
+      '/508 (6).png',
+      '/508 (7).png',
+      '/508 (8).png',
+      '/508 (9).png',
+      '/508 (10).png',
+      '/508 (11).png',
+      '/508 (12).png',
+      '/508 (13).png',
+      '/508 (14).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
 
 
 
@@ -3696,7 +3740,7 @@ export const PRODUCTS: Product[] = [
 
 
 
-    {
+  {
     id: 'p-018',
     name: 'Cotton Poplin Shirt',
     brand_line: null,
