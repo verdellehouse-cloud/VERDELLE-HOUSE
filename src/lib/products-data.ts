@@ -3928,12 +3928,11 @@ export const PRODUCTS: Product[] = [
     material: 'Origin: Imported, Sole material: Rubber, Outer material: Polyurethane (PU), Closure type: Pull-On',
     badge: 'new',
     images: [
-      '/512 (1).png',
-      '/512 (2).png',
-      '/512 (3).png',
-      '/512 (4).png',
-      '/512 (5).png',
-      
+      '/512 (1).jpg',
+      '/512 (2).jpg',
+      '/512 (3).jpg',
+      '/512 (4).jpg',
+      '/512 (5).jpg',
     ],
     featured: true,
     in_stock: true,
