@@ -3756,7 +3756,82 @@ export const PRODUCTS: Product[] = [
 
 
 
+ {
+    id: 'p-507',
+    name: 'JENN ARDOR Womens Pumps Low Heels Pointed Closed Toe Kitten Dress Shoes for Women Comfortable Stiletto Heeled Sandals Classic Wedding Party D-Orsay Work Pumps',
+    brand_line: 'Amazon',
+    description: `Put your best foot forward with these elegant closed toe pumps, crafted from soft manmade leather with a fashionable pointed toe and unique d'Orsay silhouette. The classic kitten heel, under 3 inches, keeps you steady and comfortable no matter the occasion, while the breathable padded insole and non-slip rubber sole ensure all-day comfort and durability. Available in a range of versatile colors including black, white, nude, pink, and red, these dressy low heels pair perfectly with skirts, suits, or jeans for work, weddings, parties, or everyday wear.`,
+    highlights: [
+      'Made of soft manmade leather with breathable padded insoles and non-slip rubber soles for durability and all-day comfort',
 
+      'Fashionable pointed toe d/ Orsay design with a classic kitten heel under 3 inches for steady, stylish wear',
+
+      'Available in versatile colors including black, white, nude, pink, and red to suit any style',
+
+      'Perfect for work, weddings, parties, shopping, or casual and formal events, pairing well with skirts, suits, or jeans',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 39.09,
+    compare_at_price: 59.99,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11'],
+    colors: ['Nude' ,'Black', 'Navy', 'Brown', 'Black Pu','Pink', 'Red' , 'White' , 'Nude/Suede'],
+    material: 'Sole material: Rubber, Outer material: Faux Leather, Inner material: Padded Fabric , Closure type: Pull-On',
+    badge: 'new',
+    images: [
+      '/11 (1).png',
+      '/11 (2).png',
+      '/11 (3).png',
+      '/11 (4).png',
+      '/11 (5).png',
+      '/11 (6).png',
+      '/11 (7).png', 
+      '/11 (8).png',
+      '/11 (9).png',
+      '/11 (10).png',
+      '/11 (11).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+  {
+    id: 'p-511',
+    name: 'LOCERICH Womens Kitten Heels Slingback Low Heel Dress Shoes Sparkly Pumps | Formal Closed Toe Pointed Toe Rhinestone Low heel Shoes for Bridal Wedding Party Prom',
+    brand_line: 'Amazon',
+    description: 'Sparkle from day to night with these glamorous rhinestone-embellished slingback heels, featuring a chic pointed toe and a comfortable 2.76-inch kitten heel. Perfect for the office, parties, weddings, or a night out, these versatile heels pair effortlessly with skirts, dresses, or pants for a look that always turns heads.',
+    highlights: [
+      'GLITTER HEELS: Sling back heels decorated with shiny rhinestones, adding a touch of glamour to your outfit for both everyday wear and formal occasions.',
+      'POINTED TOE HEELS: Stylish pointed toe and kitten heel design adds sophistication and elegant charm — pairs beautifully with skirts, dresses, pants, and more.',
+      'COMFORTABLE HEELS: The 2.76-inch low heel offers a modest height that elongates your legs while staying comfortable and easy to walk in, with an easy slip-on design.',
+      'VERSATILE LOW HEEL DRESS SHOES: Glamorous rhinestones and a simple design make these closed-toe heels perfect for parties, proms, weddings, travel, shopping, nightclubs, evening events, birthdays, and the office.',
+      'CUSTOMER SERVICE GUARANTEE: Dedicated support team committed to your satisfaction — reach out anytime with questions or concerns about your purchase.',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 49.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11' , '12'],
+    colors: ['Black' ,'Hot Pink', 'Red', 'Silver', 'Floral', ' Burgundy', 'Beige','Multicolor', 'Leopard' , 'White' , 'Nude/Suede'],
+    material: 'Sole material: Rubber, Outer material: Faux Leather,Inner material: Faux Leather, Closure type: Pull-On',
+    badge: 'new',
+    images: [
+      '/511 (1).png',
+      '/511 (2).png',
+      '/511 (3).png',
+      '/511 (4).png',
+      '/511 (5).png',
+      '/511 (6).png',
+      '/511 (7).png',
+      '/511 (8).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
 
 
 
