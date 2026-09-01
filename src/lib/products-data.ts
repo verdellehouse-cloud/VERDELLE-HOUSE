@@ -3906,6 +3906,80 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-04-15T09:00:00Z',
   },
 
+ {
+    id: 'p-512',
+    name: 'Womens Wedding Pumps Rhinestones Sequins Chunky Low Block Heels Pumps Dress Evening Shoes for Women Bridal',
+    brand_line: 'Amazon',
+   description: "Step out in effortless style with these chic rhinestone-embellished pointed toe pumps, featuring a soft faux leather upper and a comfortable 1.18-inch mid chunky heel with a non-slip sole for all-day stability. Versatile enough for the office, a wedding, or a night out, these closed-toe heels pair beautifully with jeans, dresses, or blazers for a look that's always chic and comfortable.",
+    highlights: [
+      "MID CHUNKY HEELS: 1.18-inch mid chunky heel height offers a stylish yet stable silhouette that's easy to wear all day long.",
+      "PREMIUM MATERIAL: Rhinestone decoration paired with a soft, skin-friendly faux leather upper and synthetic sole for a luxurious texture and lasting durability.",
+      "POINTED TOE DESIGN: Sexy kitten heel and pointed toe silhouette crafted from soft faux leather, finished with a non-slip rubber sole for added stability.",
+      "VERSATILE STYLING: Pairs effortlessly with jeans, dresses, or blazers — perfect for weddings, business, travel, dating, and everyday wear across spring, summer, and fall.",
+      "CARE INSTRUCTIONS: Hand wash with cold water and avoid high heat or direct sunlight exposure; our team is happy to help with any questions about your faux leather pumps.",
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 35.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '10.5' , '11'],
+    colors: ['Black' ,'Green', 'Silver', 'Apricot', '  Blue', ],
+    material: 'Origin: Imported, Sole material: Rubber, Outer material: Polyurethane (PU), Closure type: Pull-On',
+    badge: 'new',
+    images: [
+      '/512 (1).png',
+      '/512 (2).png',
+      '/512 (3).png',
+      '/512 (4).png',
+      '/512 (5).png',
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+  {
+    id: 'p-513',
+    name: 'Coutgo Womens Closed Pointed Toe High Heels with Bow Knot Ankle Strap Satin Stiletto Pumps',
+    brand_line: 'Amazon',
+    description: "Elevate any occasion with these elegant satin stiletto pumps, featuring a pointed closed toe, a graceful 4-inch heel, and a charming back bow knot detail. The d'Orsay-style ankle strap with buckle closure ensures a stable, secure fit, while the soft cushioned insole and non-slip outsole keep you comfortable through every dance, walk, or event. A stunning choice for weddings, bridesmaids, prom, or any evening you want to look effortlessly polished.",
+    highlights: [
+      "SATIN STILETTO HEELS: Pointed closed toe with a sleek 4-inch stiletto heel and elegant back bow knot detail for a fashionable, feminine finish.",
+      "D'ORSAY ANKLE STRAP: Ankle strap with buckle closure ensures a stable, secure fit for confident walking or dancing all night long.",
+      "ALL-DAY COMFORT: Soft cushioned insole and non-slip rubber outsole provide added comfort and steady support with every step.",
+      "PREMIUM SATIN UPPER: Luxurious polyester and satin construction delivers an elegant, advanced-looking shine that stands out in any crowd.",
+      "PERFECT FOR ANY OCCASION: Ideal for weddings, bridesmaids, prom, parties, date nights, and cocktail events — pairs beautifully with dresses, skirts, jumpsuits, and more.",
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 27.06 - 39.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11' ],
+    colors: ['Navy' ,'Beige', 'Gold', 'Black', 'Rose Red'],
+    material: 'Fabric type:Polyester+satin upper+rubber outsole, Sole material: Rubber, Outer material: Polyester+satin upper+rubber outsole ,Inner material: Polyester',
+    badge: 'new',
+    images: [
+      '/513 (1).png',
+      '/513 (2).png',
+      '/513 (3).png',
+      '/513 (4).png',
+      '/513 (5).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+
+
+
+
+
+
+
 
 
 
