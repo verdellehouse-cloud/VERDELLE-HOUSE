@@ -3853,28 +3853,415 @@ export const PRODUCTS: Product[] = [
 
 
   {
-    id: 'p-018',
-    name: 'Cotton Poplin Shirt',
-    brand_line: null,
-    description:
-      'A crisp shirt in Egyptian cotton poplin with mother-of-pearl buttons and a clean point collar. Tailored for a slim, modern fit.',
+    id: 'p-800',
+    name: 'COOFANDY Mens Cuban Guayabera Shirt Casual Long Sleeve Button Down Shirts Band Collar Linen Summer Beach Shirt',
+    brand_line: 'Amazon',
+    description: `Stay cool and stylish this season in this classic Cuban guayabera shirt, featuring a sophisticated design with a spread collar, button-down closure, and cutout embroidery detail. Made from soft, lightweight, breathable fabric that's resistant to shrinking, this shirt keeps you comfortable even in the hottest summer weather. Pair it with beach shorts, jeans, or trousers for an effortless casual look, or dress it up with sunglasses and canvas shoes for the perfect vacation outfit. Ideal for the beach, parties, weddings, or everyday wear, this versatile shirt also makes a great gift for husbands, fathers, or friends.`,
+    highlights: [
+      'Soft, lightweight, breathable fabric resists shrinking, keeping you cool and comfortable in summer heat',
+
+      'Classic guayabera design with spread collar, button-down closure, and cutout embroidery detail',
+
+      'Versatile styling pairs with beach shorts, jeans, or trousers for a casual summer look',
+
+      'Perfect for the beach, parties, weddings, vacations, or everyday wear, and a great gift idea',
+    ],
     gender: 'men',
     category: 'clothing',
-    price: 245,
+    price: 20,
     compare_at_price: null,
     currency: 'USD',
-    sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-    colors: ['White', 'Sky Blue', 'Stone'],
-    material: '100% Cotton',
-    badge: null,
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL'],
+    colors: [
+      'Light Blue', 
+      'White', 
+      'Beige',
+      'Black',
+      'Royal Blue',
+      'Army Green',
+      'Light Green',
+      'Denim Blue',
+      'Mint Green',
+      'Pink',
+      'Wine Red',
+      'Light Sage Green',
+      'Navy Blue',
+      'Coffee',
+      'Grey',
+      'Khaki',
+      'Khaki Green'
+    ],
+    material: 'Care instructions: Machine Wash , Closure type: Button , Neck style: Collared Neck,Sleeve type:Short Sleeve',
+    badge: 'limited',
     images: [
-      'https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg',
-      'https://images.pexels.com/photos/1183267/pexels-photo-1183267.jpeg',
+      '/800 (1).png',
+      '/800 (2).png',
+      '/800 (3).png',
+      '/800 (4).png',
+      '/800 (5).png',
+      '/800 (6).png',
+      '/800 (7).png',
+      '/800 (8).png',
+      '/800 (9).png',
+      '/800 (10).png',
+      '/800 (11).png',
+      '/800 (12).png',
+      '/800 (13).png',
+      '/800 (14).png'
+
     ],
     featured: false,
     in_stock: true,
     created_at: '2026-01-25T09:00:00Z',
   },
+ {
+    id: 'p-801',
+    name: 'Ryannology Mens Linen Shirts Casual Cotton 3/4 Sleeve Henley T-Shirt | Regular-Fit,Collarless,Hippie,Cotton Hemp Tunic Shirt Tops,Banded Collar Lightweight Beach Yoga Pullover Shirts',
+    brand_line: 'Amazon',
+    description: `Add a timeless staple to your wardrobe with this regular-fit henley shirt, featuring a classic four-button placket, chest pocket, and comfortable 3/4 length sleeves. Made from lightweight, breathable cotton and linen, this shirt keeps you comfortable all day long, whether you're at work or relaxing on the weekend. The simple, solid color design pairs effortlessly with dress pants, chinos, slacks, or jeans for a versatile look that never goes out of style. A great gift choice for family, friends, or a boyfriend.`,
+    highlights: [
+      'Lightweight, breathable cotton and linen blend offers maximum comfort all day long',
+
+      'Regular-fit style with a classic four-button henley placket and comfortable 3/4 length sleeves',
+
+      'Simple, solid color design pairs easily with dress pants, chinos, slacks, or jeans',
+
+      'Crisp enough for workdays and comfortable enough for weekends, also a great gift idea',
+    ],
+    gender: 'men',
+    category: 'clothing',
+    price: 19.99,
+    compare_at_price: 23.99,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL'],
+    colors: [
+      'Navy Blue', 
+      'Armygreen', 
+      'Beige',
+      'Black',
+      'Grey',
+      'Red',
+      'Sky Blue',
+      'White',
+      'Dark Green',
+      'Mint',
+      'Mint Green'
+
+    ],
+    material: 'Fabric type: Linen,Cotton , Care instructions: Machine Wash , Origin: Imported, Closure type: Pull On',
+    badge: null,
+    images: [
+      '/801 (1).png',
+      '/801 (2).png',
+      '/801 (3).png',
+      '/801 (4).png',
+      '/801 (5).png',
+      '/801 (6).png',
+      '/801 (7).png',
+      '/801 (8).png',
+      '/801 (9).png',
+      '/801 (10).png',
+      '/801 (11).png',
+
+
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-01-25T09:00:00Z',
+  },
+
+  {
+    id: 'p-802',
+    name: 'Sailwind Mens Henley Shirts Long Sleeve Button T-Shirt Casual Stylish Cotton Pullover Shirt with Pocket',
+    brand_line: 'Amazon',
+    description: `Add a timeless essential to your wardrobe with this classic color contrast henley, featuring a 3-button placket, chest pocket, and sturdy stitching for a clean, casual look. Made from breathable, soft cotton fabric, this lightweight long sleeve pullover keeps you comfortable all day while providing warmth in cooler weather. Layer it under a blazer for a polished, smart casual look, or pair with jeans for effortless everyday style. Perfect for work, dates, vacations, or outdoor activities, this versatile henley transitions seamlessly from fall through spring, making it an ideal gift for any occasion.`,
+    highlights: [
+      'Breathable, soft cotton fabric offers lightweight comfort with warmth for cooler weather',
+
+      'Classic color contrast design with 3-button placket, chest pocket, and sturdy stitching',
+
+      'Versatile smart casual style layers under a blazer or pairs with jeans for effortless looks',
+
+      'Perfect for work, dates, vacations, or outdoor activities, and a great year-round gift idea',
+    ],
+    gender: 'men',
+    category: 'clothing',
+    price: 14.99,
+    compare_at_price: 24.99,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL' ,'4-XL' , '5-XL'],
+    colors: [
+      'Green', 
+      'Blue', 
+      'Dark Blue',
+      'Black',
+      'Dark Grey',
+      'Light Blue',
+      'Light Grey',
+      'Navy Blue',
+      'Red',
+      'Light Khaki',
+      'White',
+      'Dark Brown',
+      'Dark Khaki'
+
+    ],
+    material: 'Fabric type: 95% Cotton & 5% Spandex , Care instructions: Machine Wash , Origin: Imported, Closure type: Button',
+    badge: null,
+    images: [
+      '/802 (1).png',
+      '/802 (2).png',
+      '/802 (3).png',
+      '/802 (4).png',
+      '/802 (5).png',
+      '/802 (6).png',
+      '/802 (7).png',
+      '/802 (8).png',
+      '/802 (9).png',
+      '/802 (10).png',
+      '/802 (11).png',
+      '/802 (12).png',
+      '/802 (13).png',
+
+
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-01-25T09:00:00Z',
+  },
+
+ {
+    id: 'p-803',
+    name: 'Runcati Mens Casual Pants Elastic Waist Lightweight Loose Pleated Slacks | Summer Beach, Yoga Trousers, Button Closure, Straight Leg, With Pockets, Solid Color',
+    brand_line: 'Amazon',
+    description: `Stay cool and comfortable in these lightweight, loose fit casual pants, featuring an elastic back waist, button closure, and straight leg silhouette for effortless everyday wear. Made from breathable, skin-friendly faux linen fabric, these pants keep you relaxed even in the hottest summer weather. Practical side and back pockets add function, while the pleated design offers a relaxed, comfortable fit. Pair with linen shirts and sandals for everyday style, or a Hawaiian shirt and flip flops for the perfect vacation look. Ideal for the beach, weddings, yoga, or lounging at home, these versatile pants also make a great gift.`,
+    highlights: [
+      'Breathable, skin-friendly faux linen fabric keeps you cool and relaxed, especially in summer heat',
+
+      'Elastic back waist with button closure and pleated design offers a comfortable, loose fit',
+
+      'Practical two side pockets and one back pocket add function to this versatile style',
+
+      'Perfect for the beach, weddings, yoga, vacations, or everyday casual wear, and a great gift idea',
+    ],
+    gender: 'men',
+    category: 'clothing',
+    price: 24.99,
+    compare_at_price: 26.99,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL'],
+    colors: [
+      'Dark Grey',
+      'Army Green', 
+      'Beige', 
+      'Dark Khaki',
+      'Black',
+      'Light Khaki',      
+      'Sky Blue',
+      'Grey',
+      'White',
+      
+    ],
+    material: 'Fabric type: 70% Polyester, 27% Viscose, 3% Elastane , Care instructions: Hand Wash Only , Origin: Imported, Closure type: Button',
+    badge: null,
+    images: [
+      '/803 (1).png',
+      '/803 (2).png',
+      '/803 (3).png',
+      '/803 (4).png',
+      '/803 (5).png',
+      '/803 (6).png',
+      '/803 (7).png',
+      '/803 (8).png',
+      '/803 (9).png',
+
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-01-25T09:00:00Z',
+  },
+
+ {
+    id: 'p-804',
+    name: 'COOFANDY Mens 2 Piece Sets Beach Outfits Cotton Short Sleeve Button Down Shirts Loose Pants Summer Vacation Casual Outfits',
+    brand_line: 'Amazon',
+    description: `Beat the heat in style with this classic two-piece cotton set, featuring a short sleeve button-down shirt with a spread collar and chest pocket, paired with relaxed drawstring pants and slant pockets. Crafted from 100% cotton, this soft, breathable set promotes airflow to keep you cool and comfortable all day. Wear it together as a coordinated beach outfit, or mix and match the pieces with T-shirts, shorts, or swim trunks for versatile everyday style. A go-to choice for vacations, cruises, casual weddings, or relaxing at home, this easy-care set delivers comfort and style with minimal effort.`,
+    highlights: [
+      'Soft, breathable 100% cotton fabric promotes airflow for all-day comfort in the heat',
+
+      'Short sleeve button-down shirt with spread collar and chest pocket pairs with drawstring waist pants',
+
+      'Mix-and-match versatility lets you wear the set together or style pieces separately',
+
+      'Perfect for vacations, cruises, casual weddings, travel, or relaxing at home',
+    ],
+    gender: 'men',
+    category: 'clothing',
+    price: 33.99,
+    compare_at_price: 51.99,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL'],
+    colors: [
+      'Dark Grey',
+      'Army Green', 
+      'Blue',
+      'Blue Violet', 
+      'Khaki',
+      'Light Green',
+      'Navy',
+      'Navy Blue',
+      'White Shirt/Moon Gray Pants',      
+      'Sky Blue',
+      'White',
+      'Moon Gray'
+      
+    ],
+    material: 'Fabric type: 100% Cotton , Care instructions: Machine Wash , Origin: Imported',
+    badge: 'limited',
+    images: [
+      '/804 (1).png',
+      '/804 (2).png',
+      '/804 (3).png',
+      '/804 (4).png',
+      '/804 (5).png',
+      '/804 (6).png',
+      '/804 (7).png',
+      '/804 (8).png',
+      '/804 (9).png',
+      '/804 (10).png',
+      '/804 (11).png',
+      '/804 (12).png',      
+
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-01-25T09:00:00Z',
+  },
+
+ {
+    id: 'p-805',
+    name: 'COOFANDY Mens 2 Piece Set Short Sleeve Polo Shirt and Shorts Summer Suits | Short Sleeve 1/4 Zip Polo Top, Drawstring Shorts, Pockets, Sportwear, Casual, Fashion, Vacation, Beach, Travel, Streetwear',
+    brand_line: 'Amazon',
+    description: `Stay cool and comfortable with this versatile two-piece athletic set, featuring a quarter-zip polo with elastic ribbed cuffs and matching shorts with a soft, adjustable elastic waistband. Made from a premium 95% polyester, 5% spandex blend, this moisture-wicking fabric feels silky-smooth against the skin while delivering exceptional breathability and flexibility for optimal freedom of movement. Two deep slanted side pockets on the shorts offer ample storage for your essentials, whether you're working out or heading out. Machine washable and resistant to shrinkage and pilling, this low-maintenance set is perfect for workouts, casual dining, or weekend outings.`,
+    highlights: [
+      'Skin-friendly, moisture-wicking 95% polyester, 5% spandex blend feels silky-smooth and cool to the touch',
+
+      'Quarter-zip polo with ribbed cuffs pairs with adjustable elastic waistband shorts for a comfortable fit',
+
+      'Deep slanted side pockets provide ample storage space for keys, phone, wallet, and headphones',
+
+      'Machine washable and resistant to shrinkage and pilling, perfect for workouts or casual outings',
+    ],
+    gender: 'men',
+    category: 'clothing',
+    price: 36.99,
+    compare_at_price: 45.99,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL'],
+    colors: [
+      'Light Grey',
+      'Champagne', 
+      'Khaki',
+      'Date Red', 
+      'Navy Blue',
+      'Black',
+      'Army Green',
+      'Blue',
+      'Brown',      
+      'Light Blue',
+      'Dark Grey',
+      'Light Khaki'
+      
+    ],
+    material: 'Fabric type: 95% Polyester, 5% Spandex , Care instructions: Machine Wash , Origin: Imported',
+    badge: 'limited',
+    images: [
+      '/805 (1).png',
+      '/805 (2).png',
+      '/805 (3).png',
+      '/805 (4).png',
+      '/805 (5).png',
+      '/805 (6).png',
+      '/805 (7).png',
+      '/805 (8).png',
+      '/805 (9).png',
+      '/805 (10).png',
+      '/805 (11).png',
+      '/805 (12).png',
+      '/805 (13).png',      
+
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-01-25T09:00:00Z',
+  },
+
+ {
+    id: 'p-806',
+    name: 'COOFANDY Mens Waffle Shirt and Shorts Set 2 Piece Outfits Casual Summer Tracksuits Set with Pockets',
+    brand_line: 'Amazon',
+    description: `Stay relaxed and stylish all day in this classic two-piece waffle knit set, featuring a round neck shirt with a chest pocket paired with matching shorts that include slant pockets, a back pocket, and an adjustable drawstring waist. Made from durable, soft fabric that's stretchy, breathable, and lightweight, this double-layer design keeps you comfortable in any setting. Pair with sneakers for a fashion-forward look, or mix and match with other tops and pants for versatile summer style. Perfect for daily wear, vacations, the beach, or lounging, this set also makes a great gift for a son, boyfriend, or husband.`,
+    highlights: [
+      'Durable, soft fabric is stretchy, breathable, and lightweight for all-day comfort',
+
+      'Classic waffle knit design with round neck shirt and chest pocket pairs with drawstring waist shorts',
+
+      'Shorts feature two side slant pockets and one back pocket for practical, everyday storage',
+
+      'Perfect for casual outings, vacations, the beach, or lounging, and a great gift idea',
+    ],
+    gender: 'men',
+    category: 'clothing',
+    price: 32.99,
+    compare_at_price: 48.99,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL', '2-XL' ,'3-XL' , '4-XL'],
+    colors: [
+      'Black',
+      'Beige',
+      'Light Grey',
+      'Blue', 
+      'Olive Green',
+      'Wine Red', 
+      'Navy Blue',
+      'Pure Black',
+      'White',
+      'Navy Blue',
+      'Brown',      
+      'Light Blue',
+      'Dark Grey',
+      'Khaki',
+      'Pink'
+      
+    ],
+    material: 'Fabric type: Breathable Soft Fabric , Care instructions: Machine Wash , Origin: Imported',
+    badge: 'limited',
+    images: [
+      '/806 (1).png',
+      '/806 (2).png',
+      '/806 (3).png',
+      '/806 (4).png',
+      '/806 (5).png',
+      '/806 (6).png',
+      '/806 (7).png',
+      '/806 (8).png',
+      '/806 (9).png',
+      '/806 (10).png',
+      '/806 (11).png',
+      '/806 (12).png', 
+      '/806 (13).png',      
+
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-01-25T09:00:00Z',
+  },
+ 
+ 
+
+
+  
+
   {
     id: 'p-019',
     name: 'Cashmere-Blend Scarf',
