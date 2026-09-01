@@ -3829,6 +3829,155 @@ export const PRODUCTS: Product[] = [
 
 
 
+ {
+    id: 'p-507',
+    name: 'JENN ARDOR Womens Pumps Low Heels Pointed Closed Toe Kitten Dress Shoes for Women Comfortable Stiletto Heeled Sandals Classic Wedding Party D-Orsay Work Pumps',
+    brand_line: 'Amazon',
+    description: `Put your best foot forward with these elegant closed toe pumps, crafted from soft manmade leather with a fashionable pointed toe and unique d'Orsay silhouette. The classic kitten heel, under 3 inches, keeps you steady and comfortable no matter the occasion, while the breathable padded insole and non-slip rubber sole ensure all-day comfort and durability. Available in a range of versatile colors including black, white, nude, pink, and red, these dressy low heels pair perfectly with skirts, suits, or jeans for work, weddings, parties, or everyday wear.`,
+    highlights: [
+      'Made of soft manmade leather with breathable padded insoles and non-slip rubber soles for durability and all-day comfort',
+
+      'Fashionable pointed toe d/ Orsay design with a classic kitten heel under 3 inches for steady, stylish wear',
+
+      'Available in versatile colors including black, white, nude, pink, and red to suit any style',
+
+      'Perfect for work, weddings, parties, shopping, or casual and formal events, pairing well with skirts, suits, or jeans',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 39.09,
+    compare_at_price: 59.99,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11'],
+    colors: ['Nude' ,'Black', 'Navy', 'Brown', 'Black Pu','Pink', 'Red' , 'White' , 'Nude/Suede'],
+    material: 'Sole material: Rubber, Outer material: Faux Leather, Inner material: Padded Fabric , Closure type: Pull-On',
+    badge: 'new',
+    images: [
+      '/11 (1).png',
+      '/11 (2).png',
+      '/11 (3).png',
+      '/11 (4).png',
+      '/11 (5).png',
+      '/11 (6).png',
+      '/11 (7).png', 
+      '/11 (8).png',
+      '/11 (9).png',
+      '/11 (10).png',
+      '/11 (11).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+  {
+    id: 'p-511',
+    name: 'LOCERICH Womens Kitten Heels Slingback Low Heel Dress Shoes Sparkly Pumps | Formal Closed Toe Pointed Toe Rhinestone Low heel Shoes for Bridal Wedding Party Prom',
+    brand_line: 'Amazon',
+    description: 'Sparkle from day to night with these glamorous rhinestone-embellished slingback heels, featuring a chic pointed toe and a comfortable 2.76-inch kitten heel. Perfect for the office, parties, weddings, or a night out, these versatile heels pair effortlessly with skirts, dresses, or pants for a look that always turns heads.',
+    highlights: [
+      'GLITTER HEELS: Sling back heels decorated with shiny rhinestones, adding a touch of glamour to your outfit for both everyday wear and formal occasions.',
+      'POINTED TOE HEELS: Stylish pointed toe and kitten heel design adds sophistication and elegant charm — pairs beautifully with skirts, dresses, pants, and more.',
+      'COMFORTABLE HEELS: The 2.76-inch low heel offers a modest height that elongates your legs while staying comfortable and easy to walk in, with an easy slip-on design.',
+      'VERSATILE LOW HEEL DRESS SHOES: Glamorous rhinestones and a simple design make these closed-toe heels perfect for parties, proms, weddings, travel, shopping, nightclubs, evening events, birthdays, and the office.',
+      'CUSTOMER SERVICE GUARANTEE: Dedicated support team committed to your satisfaction — reach out anytime with questions or concerns about your purchase.',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 49.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11' , '12'],
+    colors: ['Black' ,'Hot Pink', 'Red', 'Silver', 'Floral', ' Burgundy', 'Beige','Multicolor', 'Leopard' , 'White' , 'Nude/Suede'],
+    material: 'Sole material: Rubber, Outer material: Faux Leather,Inner material: Faux Leather, Closure type: Pull-On',
+    badge: 'new',
+    images: [
+      '/511 (1).png',
+      '/511 (2).png',
+      '/511 (3).png',
+      '/511 (4).png',
+      '/511 (5).png',
+      '/511 (6).png',
+      '/511 (7).png',
+      '/511 (8).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+ {
+    id: 'p-512',
+    name: 'Womens Wedding Pumps Rhinestones Sequins Chunky Low Block Heels Pumps Dress Evening Shoes for Women Bridal',
+    brand_line: 'Amazon',
+   description: "Step out in effortless style with these chic rhinestone-embellished pointed toe pumps, featuring a soft faux leather upper and a comfortable 1.18-inch mid chunky heel with a non-slip sole for all-day stability. Versatile enough for the office, a wedding, or a night out, these closed-toe heels pair beautifully with jeans, dresses, or blazers for a look that's always chic and comfortable.",
+    highlights: [
+      "MID CHUNKY HEELS: 1.18-inch mid chunky heel height offers a stylish yet stable silhouette that's easy to wear all day long.",
+      "PREMIUM MATERIAL: Rhinestone decoration paired with a soft, skin-friendly faux leather upper and synthetic sole for a luxurious texture and lasting durability.",
+      "POINTED TOE DESIGN: Sexy kitten heel and pointed toe silhouette crafted from soft faux leather, finished with a non-slip rubber sole for added stability.",
+      "VERSATILE STYLING: Pairs effortlessly with jeans, dresses, or blazers — perfect for weddings, business, travel, dating, and everyday wear across spring, summer, and fall.",
+      "CARE INSTRUCTIONS: Hand wash with cold water and avoid high heat or direct sunlight exposure; our team is happy to help with any questions about your faux leather pumps.",
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 35.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '10.5' , '11'],
+    colors: ['Black' ,'Green', 'Silver', 'Apricot', '  Blue', ],
+    material: 'Origin: Imported, Sole material: Rubber, Outer material: Polyurethane (PU), Closure type: Pull-On',
+    badge: 'new',
+    images: [
+      '/512 (1).png',
+      '/512 (2).png',
+      '/512 (3).png',
+      '/512 (4).png',
+      '/512 (5).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+  {
+    id: 'p-513',
+    name: 'Coutgo Womens Closed Pointed Toe High Heels with Bow Knot Ankle Strap Satin Stiletto Pumps',
+    brand_line: 'Amazon',
+    description: "Elevate any occasion with these elegant satin stiletto pumps, featuring a pointed closed toe, a graceful 4-inch heel, and a charming back bow knot detail. The d'Orsay-style ankle strap with buckle closure ensures a stable, secure fit, while the soft cushioned insole and non-slip outsole keep you comfortable through every dance, walk, or event. A stunning choice for weddings, bridesmaids, prom, or any evening you want to look effortlessly polished.",
+    highlights: [
+      "SATIN STILETTO HEELS: Pointed closed toe with a sleek 4-inch stiletto heel and elegant back bow knot detail for a fashionable, feminine finish.",
+      "D'ORSAY ANKLE STRAP: Ankle strap with buckle closure ensures a stable, secure fit for confident walking or dancing all night long.",
+      "ALL-DAY COMFORT: Soft cushioned insole and non-slip rubber outsole provide added comfort and steady support with every step.",
+      "PREMIUM SATIN UPPER: Luxurious polyester and satin construction delivers an elegant, advanced-looking shine that stands out in any crowd.",
+      "PERFECT FOR ANY OCCASION: Ideal for weddings, bridesmaids, prom, parties, date nights, and cocktail events — pairs beautifully with dresses, skirts, jumpsuits, and more.",
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 27.06 - 39.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '11' ],
+    colors: ['Navy' ,'Beige', 'Gold', 'Black', 'Rose Red'],
+    material: 'Fabric type:Polyester+satin upper+rubber outsole, Sole material: Rubber, Outer material: Polyester+satin upper+rubber outsole ,Inner material: Polyester',
+    badge: 'new',
+    images: [
+      '/513 (1).png',
+      '/513 (2).png',
+      '/513 (3).png',
+      '/513 (4).png',
+      '/513 (5).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
+
+  
+
+
+
+
 
 
 
