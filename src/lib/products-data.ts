@@ -3973,7 +3973,38 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-04-15T09:00:00Z',
   },
 
-  
+   {
+    id: 'p-514',
+    name: 'Womens Pumps Pointed Toe Block Chunky Low Heels Dress Shoes',
+    brand_line: 'Amazon',
+   description: `Elevate your style with these chic pointed toe pumps, featuring sexy, sleek lines and a comfortable 1.3-inch heel that strikes the perfect balance between safety and style. Exquisite rhinestone shine detailing paired with a beautiful bow adds a touch of elegant sophistication to these low block heels. The memory foam insole provides unparalleled cushioning, keeping your feet comfortable all day long without the fatigue. Perfect for weddings, parties, work, dates, or shopping, these versatile pumps are your go-to choice for any special occasion.`,
+    highlights: [
+      'Comfortable 1.3-inch heel strikes the perfect balance between safety and sexy style',
+
+      'Memory foam cushioned insole provides unparalleled all-day comfort without foot fatigue',
+
+      'Exquisite rhinestone shine detailing paired with a beautiful bow adds elegant sophistication',
+
+      'Perfect for weddings, parties, work, dates, shopping, and other special occasions',
+    ],
+    gender: 'women',
+    category: 'shoes',
+    price: 32.37,
+    compare_at_price: 34.08,
+    currency: 'USD',
+    sizes: ['6', '6.5',  '7', '7.5', '8', '8.5' , '9', '9.5' , '10' , '10.5' , '11'],
+    colors: ['Silver' ,'Black', 'Gold'],
+    material: 'Origin: Imported, Sole material: Rubber,  Outer material: Polyurethane (PU), Inner material: Microfiber',
+    badge: 'new',
+    images: [
+      '/514 (1).png',
+      '/514 (2).png',
+      '/514 (3).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-04-15T09:00:00Z',
+  },
 
 
 
