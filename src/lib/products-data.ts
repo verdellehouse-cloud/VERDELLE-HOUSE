@@ -86,30 +86,345 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-03-10T09:00:00Z',
   },
+
+
+        //WATCHES
+
   
   {
-    id: 'p-005',
-    name: 'Automatic Field Watch',
-    brand_line: 'Maison Verdelle',
-    description:
-      'A 39mm automatic watch with a sapphire crystal, sunburst dial, and calfskin strap. Powered by a Swiss automatic movement visible through the exhibition caseback.',
+    id: 'p-900',
+    name: 'Samsung Galaxy Watch 9, Silver, 44mm Bluetooth Smartwatch | AI Assistant, Fitness Tracker, Sleep Coaching and Running Coaching with Heart Rate Tracking [US Version, 2 Yr Warranty]',
+    brand_line: 'SAMSUNG',
+    description: `Meet the Galaxy Watch9, your personalized companion for health, fitness, and everyday life. Track health metrics while you sleep with Vitals, get tailored fitness guidance with Fitness Index, and stay on top of your heart health with one comprehensive Heart Health Score based on sleep, BMI, activity, and vascular load. Advanced Sleep Coaching and Bedtime Guidance help you build better habits and wake up refreshed, while easy blood pressure monitoring keeps you informed about your wellness. With hands-free AI assistance, convenient Tap to Pay, and an ultra-comfortable, breathable sports band, this smartwatch pairs seamlessly with your Android device to keep you connected, informed, and comfortable all day long.`,
+    highlights: [
+      'Vitals tracks health metrics while you sleep, catching shifts in your patterns with tailored guidance',
+
+      'Fitness Index delivers personalized training guidance based on your fitness level and goals',
+
+      'Heart Health Score combines sleep, BMI, activity, and vascular load into one easy-to-track metric',
+
+      'Advanced Sleep Coaching and Bedtime Guidance help you build better habits and wake up refreshed',
+
+      'Hands-free AI assistance, Tap to Pay, and a comfortable breathable band keep you connected all day',
+    ],
     gender: 'men',
     category: 'watches',
-    price: 1850,
-    compare_at_price: 2100,
+    price: 409,
+    compare_at_price: null,
     currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['Navy Dial', 'Black Dial'],
-    material: 'Stainless Steel',
+    sizes: ['40 mm' , '44 mm'],
+    colors: ['Graphite', 'Cream'],
+    material: 'Operating System: One UI 9.0 | Special Feature: Touchscreen | Connectivity Technology: Bluetooth | Wireless Communication Standard: Bluetooth | Battery Cell Composition: Lithium Ion | GPS: Built-in GPS | Shape: Round | Screen Size: 1.47 inches | Brand: Samsung | Style: Bluetooth',
     badge: 'bestseller',
     images: [
-      'https://images.pexels.com/photos/9978722/pexels-photo-9978722.jpeg',
-      'https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg',
+      '/900 (1).png',
+      '/900 (2).png',
     ],
     featured: true,
     in_stock: true,
     created_at: '2026-02-28T09:00:00Z',
   },
+
+  {
+    id: 'p-901',
+    name: 'OLEVS Watch for Men Diamond Business Dress Analog Quartz Stainless Steel Waterproof Luminous Date Two Tone Luxury Casual Wrist Watch Blue',
+    brand_line: 'OLEVS',
+    description: `Make a sophisticated statement with this luxury men's dress watch, featuring an exquisite black diamond-cut glass mirror face with Arabic numeral markers and a double calendar window for easy reading. Powered by an imported quartz movement with a battery life of 2-3 years, this watch delivers durable, accurate timekeeping day after day. The solid 316L black stainless steel band features a secure double butterfly buckle and adjustable metal links for a custom fit, while the 30M waterproof rating and luminous hands make it ready for any condition, day or night. Arriving in a branded box, this classic business watch captures the charm of a mature, confident man.`,
+    highlights: [
+      'Black diamond-cut glass mirror face with Arabic numerals and double calendar window for easy reading',
+
+      'Imported quartz movement offers durable, accurate timekeeping with a battery life of 2-3 years',
+
+      'Solid 316L black stainless steel band with double butterfly buckle for a secure, adjustable fit',
+
+      '30M waterproof rating and luminous hands make this watch ready for any weather, day or night',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 42,
+    compare_at_price: 147,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black-Silver',
+      'Two Tone-Blue',
+      'Two Tone-Blue',
+      'Two Tone-Blue',
+      'Gold-Black',
+      'Gold-Blue',
+      'Gold-Gold',
+      'Gold-Gold',
+      'Gold-Gold',
+      'Black-Silver',
+      'Two Tone-White',
+      'Two Tone-Black',
+      'Silver-Silver',
+      'Black-Black',
+      'Silver-Silver',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Silver-Blue',
+      'Two Tone-White',
+      'Two Tone-Black',
+      'Silver-Silver',
+      'Black-Black',
+      'Silver-Silver',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Silver-Blue',
+      'Two Tone-Blue',
+      'Silver-Silver',
+      'Two Tone-White',
+      'Two Tone-Black'
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Calendaring, Luminous, Water Resistant | Power Source: Automatic | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Clasp Type: Double Locking Foldover Clasp | Water Resistance Level: Waterproof | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/901 (1).png',
+      '/901 (2).png',
+      '/901 (3).png',
+      '/901 (4).png',
+      '/901 (5).png',
+      '/901 (6).png',
+      '/901 (7).png',
+      '/901 (8).png',
+      '/901 (9).png',
+      '/901 (10).png',
+      '/901 (11).png',
+      '/901 (12).png',
+      '/901 (13).png',
+      '/901 (14).png',
+      '/901 (15).png',
+      '/901 (16).png',
+      '/901 (17).png',
+      '/901 (18).png',
+      '/901 (19).png',
+      '/901 (20).png',
+      '/901 (21).png',
+      '/901 (22).png',
+      '/901 (23).png',
+      '/901 (24).png',
+      '/901 (25).png',
+      '/901 (26).png',
+      '/901 (27).png',
+      '/901 (28).png',
+      '/901 (29).png',
+      '/901 (30).png',
+      '/901 (31).png',
+      '/901 (32).png',
+      '/901 (33).png',
+      '/901 (34).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-902',
+    name: 'PINDOWS Mens Classic Quartz Watch Stainless Steel Diamond Dial | 42mm profile, day-date calendar, 120g solid build, hidden butterfly clasp, luminous hands, 30M daily water resistance',
+    brand_line: 'PINDOWS',
+    description: `Project sophisticated confidence with this elegant business watch, featuring a sleek 42mm dial with rhombic-coated glass and diamond-encrusted Roman numerals perfect for the modern professional. The solid 316L stainless steel band, weighing just 120g, sits naturally on the wrist with a seamless hidden butterfly clasp for all-day comfort at the office. Powered by a reliable imported quartz movement, this watch offers accurate timekeeping with a clear Day-Date window and HD luminous hands for visibility in low light. With everyday 30M water resistance and a slim 12mm case that fits perfectly under a dress shirt cuff, this watch arrives in a premium gift box backed by a 30-day refund policy and 1-year after-sales service.`,
+    highlights: [
+      '42mm dial with rhombic-coated glass and diamond-encrusted Roman numerals for sophisticated business style',
+
+      'Solid 316L stainless steel band with hidden butterfly clasp offers a comfortable, ergonomic fit at just 120g',
+
+      'Reliable imported quartz movement with Day-Date window and HD luminous hands for accuracy and visibility',
+
+      '30M water resistant rating handles hand washing and rain, with a slim case that fits under dress shirt cuffs',
+
+      'Arrives in a premium gift box with a 30-day refund policy and 1-year after-sales service',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 28.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Two Tone-Blue',
+      'Two Tone-Black',
+      'Gold-Gold',
+      'Silver-Silver',
+      'Black-Black',
+      'Two Tone-Black',
+      'Two Tone-Blue',
+      'Gold-Black',
+      'Silver-Blue',
+      'Two Tone-Black',
+      'Black-Black'
+    ],
+    material: 'Display: Analog | Watch Movement Type: Japanese Quartz | Additional Features: 3ATM Waterproof, Day-Date Display, Luminous Hands, Roman Numeral Markers, Scratch Resistant | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Fitness, Golf, Walking | Clasp Type: Hidden Clasp | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal Markers, Roman Numerals, Polished Finish',
+    badge: 'limited',
+    images: [
+      '/902 (1).png',
+      '/902 (2).png',
+      '/902 (3).png',
+      '/902 (4).png',
+      '/902 (5).png',
+      '/902 (6).png',
+      '/902 (7).png',
+      '/902 (8).png',
+      '/902 (9).png',
+      '/902 (10).png',
+      '/902 (11).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-903',
+    name: 'Casio PRW6600Y Series | Pro Trek | 100M WR | Compass | Alt/Baro-Thermo | Tough Solar Power | Atomic Timekeeping | 1-100 SEC Stopwatch | Countdown Timer | World Time',
+    brand_line: 'CASIO',
+    description: `Built for outdoor adventure, this rugged digital watch features a Triple Sensor with altimeter, barometer, and digital compass with bearing memory to keep you oriented in any terrain. Tough Solar power and Multi Band 6 radio-controlled timekeeping ensure reliable accuracy without the hassle of battery changes, while the durable silicone band and 100M water resistance make it ready for swimming, snorkeling, and everyday wear. Practical features like World Time, 5 daily alarms, a stopwatch, countdown timer, and full auto LED light round out this versatile tool watch, with manual memory storage for up to 30 altitude, date, and time records.`,
+    highlights: [
+      'Triple Sensor with altimeter, barometer, and digital compass with bearing memory for outdoor navigation',
+
+      'Tough Solar power and Multi Band 6 radio timekeeping ensure reliable, low-maintenance accuracy',
+
+      '100M water resistance makes this watch suitable for swimming and snorkeling',
+
+      'Packed with practical features including World Time, 5 alarms, stopwatch, countdown timer, and LED light',
+
+      'Manual memory function stores up to 30 records of altitude, date, and time measurements',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 295,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue',
+      'Black',
+
+    ],
+    material: 'Display: Analog-Digital | Watch Movement Type: Quartz | Additional Features: Altimeter, Barometer, Compass, Thermometer | Power Source: Solar Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 330 feet | Sport Type: Swimming | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/903 (1).png',
+      '/903 (2).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-904',
+    name: 'Casio Mens AW48HE-8AV Ana-Digi Dual Time Watch',
+    brand_line: 'CASIO',
+    description: `Add retro-chic style to your everyday look with this square watch, featuring both digital and analog displays with elegant rose-tone accents. The convenient day/date/month function keeps you on schedule at a glance, while the durable resin case and mineral dial window protect your watch through daily wear. Powered by reliable quartz movement, this watch offers 50m water resistance, making it perfect for recreational swimming and everyday adventures. Finished with a comfortable resin band and secure buckle closure, this versatile timepiece pairs style with function.`,
+    highlights: [
+      'Square retro design with rose-tone accents combines digital and analog displays for a unique look',
+
+      'Day/date/month function keeps you on schedule with a quick glance at your wrist',
+
+      'Durable resin case with mineral dial window protects against everyday wear',
+
+      '50m water resistance makes this watch suitable for recreational swimming and daily activities',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 34.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue',
+      'Black',
+
+    ],
+    material: 'Material: Resin',
+    badge: 'new',
+    images: [
+      '/904.png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-905',
+    name: 'Casio Pro Trek PRW-B1000 Mens Digital Watch, Black',
+    brand_line: 'CASIO',
+    description: `Built for outdoor adventure, this rugged Casio PRW-B1000 series watch features a flame-resistant CORDURA band designed to withstand campfires and outdoor cooking, paired with a tough stainless steel and bio-based resin case. Multi-Band 6 radio-controlled timekeeping automatically syncs with atomic signals from six global stations for precise accuracy with minimal manual adjustment. Tough Solar technology delivers up to 6 months of power on a full charge, or 25 months in power-saving mode, ensuring long-term reliability on extended trips. The Super Illuminator LED backlight offers clear visibility in low light, while World Time coverage across 38 time zones and 55 cities makes this the perfect companion for travelers and outdoor explorers.`,
+    highlights: [
+      'Flame-resistant CORDURA band withstands campfires and outdoor cooking for rugged durability',
+
+      'Multi-Band 6 radio-controlled timekeeping automatically syncs with atomic signals for precise accuracy',
+
+      'Tough Solar technology delivers up to 6 months of power, or 25 months in power-saving mode',
+
+      'Super Illuminator LED backlight and World Time function across 38 time zones aid travelers and explorers',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 640,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black'
+    ],
+    material: 'Display: Analog-Digital | Watch Movement Type: Tough Solar | Additional Features: Multi-Band 6 Atomic Time Calibration, Sapphire Crystal, Super Illuminator LED, Tough Solar, World Time | Strap Type: Two Piece Strap | Water Resistance Depth: 100 meters | Clasp Type: Buckle | Water Resistance Level: Waterproof',
+    badge: 'new',
+    images: [
+      '/905.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-906',
+    name: 'Casio W-218HM-5BV Series | Mens Digital Watch | Black/Gold | 50M WR | Resin Case | LED Backlight | Auto Calendar | 1/100 SEC Stopwatch | Daily Alarm | 12/24 Hour Format | 7 Year Battery',
+    brand_line: 'CASIO',
+    description: `Built for everyday durability, this sporty watch pairs a rugged resin case with a bold black and gold display for a versatile look that works for casual wear, the office, or outdoor adventures. The adjustable strap ensures a comfortable, secure fit, while 50m water resistance handles splashes, rain, and daily wear with ease. A multifunctional stopwatch tracks performance with 1/100-second precision, and daily alarms with an hourly signal help keep you on schedule. An amber LED backlight offers easy nighttime visibility, and a long-lasting 7-year battery with accurate quartz movement delivers dependable, low-maintenance timekeeping for years to come.`,
+    highlights: [
+      'Rugged resin case with bold black and gold display and adjustable strap for versatile everyday wear',
+
+      '50m water resistance confidently handles splashes, rain, and daily activities',
+
+      'Multifunctional stopwatch offers 1/100-second precision, plus daily alarms and hourly signal',
+
+      'Long-lasting 7-year battery and accurate quartz movement deliver dependable, low-maintenance timekeeping',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 25,
+    compare_at_price: 29.95,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black/Gold'
+    ],
+    material: 'Display: Digital | Watch Movement Type: Quartz | Additional Features: Alarm, Chronograph, Light Up | Power Source: Battery Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 50 meters | Sport Type: Walking | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/906.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+
+
+
 
 
   {
@@ -4409,7 +4724,7 @@ export const PRODUCTS: Product[] = [
  
 
 
-  
+
 
   {
     id: 'p-019',
