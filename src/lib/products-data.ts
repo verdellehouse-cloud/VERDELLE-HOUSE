@@ -821,6 +821,44 @@ export const PRODUCTS: Product[] = [
   },
 
 
+   {
+    id: 'p-917',
+    name: 'Movado Bold TR90 Mens Swiss Quartz Watch',
+    brand_line: 'Movado',
+    description: "Make a bold statement with the Movado BOLD TR90, featuring an ultra-lightweight TR90 composite case in black paired with a smooth, textured black silicone strap. This men's chronograph watch combines sport-inspired design with reliable quartz movement, offering a sleek, modern look that's ready for everyday wear.",
+    highlights: [
+      "BOLD TR90 DESIGN: Sport-inspired design crafted from ultra-lightweight TR90 composite material with a smooth, textured silicone strap.",
+      "SLEEK COLORWAY: Black TR90 case with a black dial and matching black silicone strap for a modern, versatile look.",
+      "QUARTZ CHRONOGRAPH MOVEMENT: Battery-powered quartz movement with a chronograph function, featuring an independent sweep second hand that can be started, stopped, and reset via the stem.",
+      "WATER RESISTANT: Water resistant up to 30m (100 ft) / 3 ATM, suitable for splashes or brief immersion but not for swimming or showering.",
+      "LASTING QUALITY: Crafted with meticulous attention to quality and detail; a maintenance interval of 3 to 5 years is recommended along with battery replacement as needed.",
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 750,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Chronograph-Black',
+      'Three Hand-Black',
+      'Three Hand-White',
+
+    ],
+    material: 'Display: Analog | Movement: Swiss Quartz | Additional Features: Chronograph, Lightweight, Water Resistant | Water Resistance: 30 meters, Water Resistant | Clasp: Tang Buckle',
+    badge: 'bestseller',
+    images: [
+      '/917 (1).png',
+      '/917 (2).png',
+      '/917 (3).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+
 
   {
     id: 'p-918',
@@ -1027,8 +1065,9 @@ export const PRODUCTS: Product[] = [
     material: 'Stainless Steel',
     badge: 'bestseller',
     images: [
-      'https://images.pexels.com/photos/9978722/pexels-photo-9978722.jpeg',
-      'https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg',
+      '/1000 (1).png',
+      '/1000 (2).png',
+ 
     ],
     featured: true,
     in_stock: true,
@@ -1055,23 +1094,30 @@ export const PRODUCTS: Product[] = [
                                              //////Jewellry
   
   {
-    id: 'p-010',
-    name: 'Pearl Drop Earrings',
-    brand_line: 'Atelier',
-    description:
-      'Freshwater pearls suspended from brushed gold-vermeil settings. Lightweight enough for everyday wear, refined enough for evening.',
+    id: 'p-1000',
+    name: 'PAVOI 14K Gold Plated Rings with Cubic Zirconia Love and Stackable 3mm Princess Cut Rings for Women',
+    brand_line: 'PAVOI',
+    description: "Celebrate her with this stunning eternity band ring, featuring dazzling 3mm princess-cut cubic zirconia stones set in premium rhodium plating for a brilliant, long-lasting shine. Hypoallergenic and safe for sensitive skin, this versatile ring transitions effortlessly from everyday wear to special occasions. Beautifully packaged and ready for gifting, it's the perfect sentimental surprise for Mother's Day, anniversaries, birthdays, or any moment worth celebrating.",
+    highlights: [
+      "THOUGHTFUL GIFT: Beautifully packaged and ready for gifting, this heartfelt ring makes a sentimental surprise for Mom, Grandma, or any special lady on Mother's Day, anniversaries, birthdays, or weddings.",
+      "STUNNING DESIGN: Features 3mm princess-cut cubic zirconia stones for a comfortable, stylish look that suits both simple and grand occasions in any season.",
+      "PREMIUM QUALITY: Crafted with rhodium platxing and premium AAAAA cubic zirconia, this hypoallergenic eternity band is nickel-safe, lead-safe, and cadmium-compliant, meeting strict U.S. and EU standards.",
+      "VERSATILE EVERYDAY WEAR: Ideal as a travel wedding band, promise ring, or stackable staple that transitions seamlessly from workday to night.",
+      "ELEGANT GIFT PACKAGING: Arrives in a premium box ready for gifting — perfect for surprising a wife, daughter, girlfriend, or best friend on Valentine's Day, Christmas, or any special occasion.",
+      "SATISFACTION GUARANTEE: Backed by a 60-day satisfaction promise from a proud American-owned business committed to quality and exceptional customer service.",
+    ],
     gender: 'women',
     category: 'jewelry',
-    price: 245,
+    price: 14.95,
     compare_at_price: null,
     currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['Gold'],
-    material: 'Gold Vermeil, Freshwater Pearl',
-    badge: 'limited',
+    sizes: ['5','6','7','8','9','10'],
+    colors: ['White Gold','Rose Gold'],
+    material: 'Ring Type: Eternity Ring | Style: American | Color: Rose Gold | Occasion: Christmas, Engagement, Thanksgiving, Valentines Day | Collection: Winter | Stone: D Color, Princess Cut/Shape, VVS Clarity | Setting: Prong',
+    badge: 'new',
     images: [
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+       '/1000 (1).png',
+      '/1000(2).png',
     ],
     featured: false,
     in_stock: true,
@@ -1079,27 +1125,35 @@ export const PRODUCTS: Product[] = [
   },
 
   {
-    id: 'p-016',
-    name: 'Chunky Chain Bracelet',
-    brand_line: null,
-    description:
-      'A substantial curb-chain bracelet in brushed sterling silver with a hidden box clasp. Unisex sizing, adjustable at three lengths.',
+    id: 'p-1001',
+    name: 'PAVOI 14K Gold Plated Marquise Cut Tennis Bracelet for Women, CZ Bracelets',
+    brand_line: 'PAVOI',
+    description: "Radiate timeless elegance with this marquise cut cubic zirconia tennis bracelet, featuring 3.5mm x 7mm stones set in a minimalist two-prong setting along a 6.5-inch chain. Crafted with 14K yellow gold plating and premium AAAAA cubic zirconia, this hypoallergenic bracelet is the perfect finishing touch for brides, bridal parties, or any special occasion, offering romance, sophistication, and lasting comfort.",
+    highlights: [
+      "MARQUISE CUT DESIGN: 6.5-inch tennis bracelet featuring 3.5mm x 7mm marquise cut cubic zirconia stones in a minimalist two-prong setting, radiating bridal brilliance.",
+      "PREMIUM QUALITY: Crafted with 14K yellow gold plating and premium AAAAA marquise cut cubic zirconia, this hypoallergenic bracelet is nickel-safe, lead-safe, and cadmium-compliant, meeting strict U.S. and EU standards.",
+      "PERFECT GIFT FOR HER: Arrives in an elegant premium box ready for gifting — ideal for surprising a bride, mom, wife, daughter, girlfriend, or best friend for weddings, Valentine's Day, or any celebration.",
+      "SATISFACTION GUARANTEE: Backed by a 60-day satisfaction promise from a proud American-owned business committed to quality and exceptional customer service.",
+      "SUSTAINABLY CRAFTED: Made from 100% recycled materials and packaged in 99% recycled materials, supporting a business committed to reducing environmental impact.",
+    ],
     gender: 'women',
     category: 'jewelry',
-    price: 210,
+    price: 14.95,
     compare_at_price: null,
     currency: 'USD',
-    sizes: ['S/M', 'M/L'],
-    colors: ['Silver'],
-    material: 'Sterling Silver',
-    badge: null,
+    sizes: ['6.5','7','7.5'],
+    colors: ['Leaf-White Gold','Leaf-Yellow Gold','Marquise-White Gold','Marquise-Yellow Gold'],
+    material: 'Material: Yellow Gold | Metal Type: Brass | Clasp Type: Fold Over | Chain Type: Tennis Chain | Metal Weight: 23.3 g | Gem Type: Cubic Zirconia',
+    badge: 'new',
     images: [
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+       '/1001 (1).png',
+       '/1001 (2).png',
+       '/1001 (3).png',
+       '/1001 (4).png',
     ],
     featured: false,
     in_stock: true,
-    created_at: '2025-11-30T09:00:00Z',
+    created_at: '2026-03-30T09:00:00Z',
   },
 
   {
