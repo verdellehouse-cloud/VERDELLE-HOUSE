@@ -13,54 +13,904 @@ import type { Product } from '@/types';
  * URLs used directly in <img src="..."> tags, no storage/service required.
  */
 export const PRODUCTS: Product[] = [
+
+
+
+                      ////////MENS WATCHES
+
+  
   {
+    id: 'p-900',
+    name: 'Samsung Galaxy Watch 9, Silver, 44mm Bluetooth Smartwatch | AI Assistant, Fitness Tracker, Sleep Coaching and Running Coaching with Heart Rate Tracking [US Version, 2 Yr Warranty]',
+    brand_line: 'SAMSUNG',
+    description: `Meet the Galaxy Watch9, your personalized companion for health, fitness, and everyday life. Track health metrics while you sleep with Vitals, get tailored fitness guidance with Fitness Index, and stay on top of your heart health with one comprehensive Heart Health Score based on sleep, BMI, activity, and vascular load. Advanced Sleep Coaching and Bedtime Guidance help you build better habits and wake up refreshed, while easy blood pressure monitoring keeps you informed about your wellness. With hands-free AI assistance, convenient Tap to Pay, and an ultra-comfortable, breathable sports band, this smartwatch pairs seamlessly with your Android device to keep you connected, informed, and comfortable all day long.`,
+    highlights: [
+      'Vitals tracks health metrics while you sleep, catching shifts in your patterns with tailored guidance',
 
+      'Fitness Index delivers personalized training guidance based on your fitness level and goals',
 
-                      ///MEN CLOTHING
-    id: 'p-001',
-    name: 'Cashmere Overcoat',
-    brand_line: 'Heritage',
-    description:
-      'A single-breasted overcoat cut from 100% Italian cashmere. Structured shoulders, a full canvas construction, and a length designed to move with you through the coldest months.',
+      'Heart Health Score combines sleep, BMI, activity, and vascular load into one easy-to-track metric',
+
+      'Advanced Sleep Coaching and Bedtime Guidance help you build better habits and wake up refreshed',
+
+      'Hands-free AI assistance, Tap to Pay, and a comfortable breathable band keep you connected all day',
+    ],
     gender: 'men',
-    category: 'clothing',
-    price: 2450,
+    category: 'watches',
+    price: 409,
     compare_at_price: null,
     currency: 'USD',
-    sizes: ['46', '48', '50', '52', '54'],
-    colors: ['Camel', 'Charcoal', 'Navy'],
-    material: '100% Cashmere',
-    badge: 'new',
-    images: [
-      'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg',
-      'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg',
-    ],
-    featured: true,
-    in_stock: true,
-    created_at: '2026-06-01T09:00:00Z',
-  },
-  {
-    id: 'p-002',
-    name: 'Merino Crewneck Sweater',
-    brand_line: null,
-    description:
-      'A fine-gauge merino wool sweater knit in Scotland. Soft against the skin, with a ribbed hem and cuffs for a clean, considered silhouette.',
-    gender: 'men',
-    category: 'clothing',
-    price: 380,
-    compare_at_price: 460,
-    currency: 'USD',
-    sizes: ['S', 'M', 'L', 'XL'],
-    colors: ['Forest', 'Stone', 'Black'],
-    material: '100% Merino Wool',
+    sizes: ['40 mm' , '44 mm'],
+    colors: ['Graphite', 'Cream'],
+    material: 'Operating System: One UI 9.0 | Special Feature: Touchscreen | Connectivity Technology: Bluetooth | Wireless Communication Standard: Bluetooth | Battery Cell Composition: Lithium Ion | GPS: Built-in GPS | Shape: Round | Screen Size: 1.47 inches | Brand: Samsung | Style: Bluetooth',
     badge: 'bestseller',
     images: [
-      'https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg',
-      'https://images.pexels.com/photos/1183267/pexels-photo-1183267.jpeg',
+      '/900 (1).png',
+      '/900 (2).png',
     ],
     featured: true,
     in_stock: true,
-    created_at: '2026-05-20T09:00:00Z',
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-901',
+    name: 'OLEVS Watch for Men Diamond Business Dress Analog Quartz Stainless Steel Waterproof Luminous Date Two Tone Luxury Casual Wrist Watch Blue',
+    brand_line: 'OLEVS',
+    description: `Make a sophisticated statement with this luxury men's dress watch, featuring an exquisite black diamond-cut glass mirror face with Arabic numeral markers and a double calendar window for easy reading. Powered by an imported quartz movement with a battery life of 2-3 years, this watch delivers durable, accurate timekeeping day after day. The solid 316L black stainless steel band features a secure double butterfly buckle and adjustable metal links for a custom fit, while the 30M waterproof rating and luminous hands make it ready for any condition, day or night. Arriving in a branded box, this classic business watch captures the charm of a mature, confident man.`,
+    highlights: [
+      'Black diamond-cut glass mirror face with Arabic numerals and double calendar window for easy reading',
+
+      'Imported quartz movement offers durable, accurate timekeeping with a battery life of 2-3 years',
+
+      'Solid 316L black stainless steel band with double butterfly buckle for a secure, adjustable fit',
+
+      '30M waterproof rating and luminous hands make this watch ready for any weather, day or night',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 42,
+    compare_at_price: 147,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black-Silver',
+      'Two Tone-Blue',
+      'Two Tone-Blue',
+      'Two Tone-Blue',
+      'Gold-Black',
+      'Gold-Blue',
+      'Gold-Gold',
+      'Gold-Gold',
+      'Gold-Gold',
+      'Black-Silver',
+      'Two Tone-White',
+      'Two Tone-Black',
+      'Silver-Silver',
+      'Black-Black',
+      'Silver-Silver',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Silver-Blue',
+      'Two Tone-White',
+      'Two Tone-Black',
+      'Silver-Silver',
+      'Black-Black',
+      'Silver-Silver',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Two Tone-Black',
+      'Silver-Black',
+      'Silver-Blue',
+      'Two Tone-Blue',
+      'Silver-Silver',
+      'Two Tone-White',
+      'Two Tone-Black'
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Calendaring, Luminous, Water Resistant | Power Source: Automatic | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Clasp Type: Double Locking Foldover Clasp | Water Resistance Level: Waterproof | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/901 (1).png',
+      '/901 (2).png',
+      '/901 (3).png',
+      '/901 (4).png',
+      '/901 (5).png',
+      '/901 (6).png',
+      '/901 (7).png',
+      '/901 (8).png',
+      '/901 (9).png',
+      '/901 (10).png',
+      '/901 (11).png',
+      '/901 (12).png',
+      '/901 (13).png',
+      '/901 (14).png',
+      '/901 (15).png',
+      '/901 (16).png',
+      '/901 (17).png',
+      '/901 (18).png',
+      '/901 (19).png',
+      '/901 (20).png',
+      '/901 (21).png',
+      '/901 (22).png',
+      '/901 (23).png',
+      '/901 (24).png',
+      '/901 (25).png',
+      '/901 (26).png',
+      '/901 (27).png',
+      '/901 (28).png',
+      '/901 (29).png',
+      '/901 (30).png',
+      '/901 (31).png',
+      '/901 (32).png',
+      '/901 (33).png',
+      '/901 (34).png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-902',
+    name: 'PINDOWS Mens Classic Quartz Watch Stainless Steel Diamond Dial | 42mm profile, day-date calendar, 120g solid build, hidden butterfly clasp, luminous hands, 30M daily water resistance',
+    brand_line: 'PINDOWS',
+    description: `Project sophisticated confidence with this elegant business watch, featuring a sleek 42mm dial with rhombic-coated glass and diamond-encrusted Roman numerals perfect for the modern professional. The solid 316L stainless steel band, weighing just 120g, sits naturally on the wrist with a seamless hidden butterfly clasp for all-day comfort at the office. Powered by a reliable imported quartz movement, this watch offers accurate timekeeping with a clear Day-Date window and HD luminous hands for visibility in low light. With everyday 30M water resistance and a slim 12mm case that fits perfectly under a dress shirt cuff, this watch arrives in a premium gift box backed by a 30-day refund policy and 1-year after-sales service.`,
+    highlights: [
+      '42mm dial with rhombic-coated glass and diamond-encrusted Roman numerals for sophisticated business style',
+
+      'Solid 316L stainless steel band with hidden butterfly clasp offers a comfortable, ergonomic fit at just 120g',
+
+      'Reliable imported quartz movement with Day-Date window and HD luminous hands for accuracy and visibility',
+
+      '30M water resistant rating handles hand washing and rain, with a slim case that fits under dress shirt cuffs',
+
+      'Arrives in a premium gift box with a 30-day refund policy and 1-year after-sales service',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 28.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Two Tone-Blue',
+      'Two Tone-Black',
+      'Gold-Gold',
+      'Silver-Silver',
+      'Black-Black',
+      'Two Tone-Black',
+      'Two Tone-Blue',
+      'Gold-Black',
+      'Silver-Blue',
+      'Two Tone-Black',
+      'Black-Black'
+    ],
+    material: 'Display: Analog | Watch Movement Type: Japanese Quartz | Additional Features: 3ATM Waterproof, Day-Date Display, Luminous Hands, Roman Numeral Markers, Scratch Resistant | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Fitness, Golf, Walking | Clasp Type: Hidden Clasp | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal Markers, Roman Numerals, Polished Finish',
+    badge: 'limited',
+    images: [
+      '/902 (1).png',
+      '/902 (2).png',
+      '/902 (3).png',
+      '/902 (4).png',
+      '/902 (5).png',
+      '/902 (6).png',
+      '/902 (7).png',
+      '/902 (8).png',
+      '/902 (9).png',
+      '/902 (10).png',
+      '/902 (11).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-903',
+    name: 'Casio PRW6600Y Series | Pro Trek | 100M WR | Compass | Alt/Baro-Thermo | Tough Solar Power | Atomic Timekeeping | 1-100 SEC Stopwatch | Countdown Timer | World Time',
+    brand_line: 'CASIO',
+    description: `Built for outdoor adventure, this rugged digital watch features a Triple Sensor with altimeter, barometer, and digital compass with bearing memory to keep you oriented in any terrain. Tough Solar power and Multi Band 6 radio-controlled timekeeping ensure reliable accuracy without the hassle of battery changes, while the durable silicone band and 100M water resistance make it ready for swimming, snorkeling, and everyday wear. Practical features like World Time, 5 daily alarms, a stopwatch, countdown timer, and full auto LED light round out this versatile tool watch, with manual memory storage for up to 30 altitude, date, and time records.`,
+    highlights: [
+      'Triple Sensor with altimeter, barometer, and digital compass with bearing memory for outdoor navigation',
+
+      'Tough Solar power and Multi Band 6 radio timekeeping ensure reliable, low-maintenance accuracy',
+
+      '100M water resistance makes this watch suitable for swimming and snorkeling',
+
+      'Packed with practical features including World Time, 5 alarms, stopwatch, countdown timer, and LED light',
+
+      'Manual memory function stores up to 30 records of altitude, date, and time measurements',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 295,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue',
+      'Black',
+
+    ],
+    material: 'Display: Analog-Digital | Watch Movement Type: Quartz | Additional Features: Altimeter, Barometer, Compass, Thermometer | Power Source: Solar Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 330 feet | Sport Type: Swimming | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/903 (1).png',
+      '/903 (2).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-904',
+    name: 'Casio Mens AW48HE-8AV Ana-Digi Dual Time Watch',
+    brand_line: 'CASIO',
+    description: `Add retro-chic style to your everyday look with this square watch, featuring both digital and analog displays with elegant rose-tone accents. The convenient day/date/month function keeps you on schedule at a glance, while the durable resin case and mineral dial window protect your watch through daily wear. Powered by reliable quartz movement, this watch offers 50m water resistance, making it perfect for recreational swimming and everyday adventures. Finished with a comfortable resin band and secure buckle closure, this versatile timepiece pairs style with function.`,
+    highlights: [
+      'Square retro design with rose-tone accents combines digital and analog displays for a unique look',
+
+      'Day/date/month function keeps you on schedule with a quick glance at your wrist',
+
+      'Durable resin case with mineral dial window protects against everyday wear',
+
+      '50m water resistance makes this watch suitable for recreational swimming and daily activities',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 34.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue',
+      'Black',
+
+    ],
+    material: 'Material: Resin',
+    badge: 'new',
+    images: [
+      '/904.png',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-905',
+    name: 'Casio Pro Trek PRW-B1000 Mens Digital Watch, Black',
+    brand_line: 'CASIO',
+    description: `Built for outdoor adventure, this rugged Casio PRW-B1000 series watch features a flame-resistant CORDURA band designed to withstand campfires and outdoor cooking, paired with a tough stainless steel and bio-based resin case. Multi-Band 6 radio-controlled timekeeping automatically syncs with atomic signals from six global stations for precise accuracy with minimal manual adjustment. Tough Solar technology delivers up to 6 months of power on a full charge, or 25 months in power-saving mode, ensuring long-term reliability on extended trips. The Super Illuminator LED backlight offers clear visibility in low light, while World Time coverage across 38 time zones and 55 cities makes this the perfect companion for travelers and outdoor explorers.`,
+    highlights: [
+      'Flame-resistant CORDURA band withstands campfires and outdoor cooking for rugged durability',
+
+      'Multi-Band 6 radio-controlled timekeeping automatically syncs with atomic signals for precise accuracy',
+
+      'Tough Solar technology delivers up to 6 months of power, or 25 months in power-saving mode',
+
+      'Super Illuminator LED backlight and World Time function across 38 time zones aid travelers and explorers',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 640,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black'
+    ],
+    material: 'Display: Analog-Digital | Watch Movement Type: Tough Solar | Additional Features: Multi-Band 6 Atomic Time Calibration, Sapphire Crystal, Super Illuminator LED, Tough Solar, World Time | Strap Type: Two Piece Strap | Water Resistance Depth: 100 meters | Clasp Type: Buckle | Water Resistance Level: Waterproof',
+    badge: 'new',
+    images: [
+      '/905.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-906',
+    name: 'Casio W-218HM-5BV Series | Mens Digital Watch | Black/Gold | 50M WR | Resin Case | LED Backlight | Auto Calendar | 1/100 SEC Stopwatch | Daily Alarm | 12/24 Hour Format | 7 Year Battery',
+    brand_line: 'CASIO',
+    description: `Built for everyday durability, this sporty watch pairs a rugged resin case with a bold black and gold display for a versatile look that works for casual wear, the office, or outdoor adventures. The adjustable strap ensures a comfortable, secure fit, while 50m water resistance handles splashes, rain, and daily wear with ease. A multifunctional stopwatch tracks performance with 1/100-second precision, and daily alarms with an hourly signal help keep you on schedule. An amber LED backlight offers easy nighttime visibility, and a long-lasting 7-year battery with accurate quartz movement delivers dependable, low-maintenance timekeeping for years to come.`,
+    highlights: [
+      'Rugged resin case with bold black and gold display and adjustable strap for versatile everyday wear',
+
+      '50m water resistance confidently handles splashes, rain, and daily activities',
+
+      'Multifunctional stopwatch offers 1/100-second precision, plus daily alarms and hourly signal',
+
+      'Long-lasting 7-year battery and accurate quartz movement deliver dependable, low-maintenance timekeeping',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 25,
+    compare_at_price: 29.95,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black/Gold'
+    ],
+    material: 'Display: Digital | Watch Movement Type: Quartz | Additional Features: Alarm, Chronograph, Light Up | Power Source: Battery Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 50 meters | Sport Type: Walking | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/906.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-907',
+    name: 'Armitron Sport Mens Digital Chronograph Resin Strap Watch, 40/8284',
+    brand_line: 'CASIO',
+    description: `Make a bold statement with this sporty digital watch, featuring a striking 54mm red resin case with contrasting black and red top rings for eye-catching style. The clear LCD display shows day, date, time, and seconds at a glance, while the matte red textured resin strap with buckle closure ensures a comfortable, secure fit. Powered by reliable quartz movement and water resistant to 330 feet, this durable watch is ready to keep pace with your active lifestyle.`,
+    highlights: [
+      'Bold 54mm red resin case with contrasting black and red top rings for eye-catching sporty style',
+
+      'Clear LCD display shows day, date, time, and seconds for easy at-a-glance reading',
+
+      'Matte red textured resin strap with buckle closure ensures a comfortable, secure fit',
+
+      'Reliable quartz movement and water resistance to 330 feet for durable, everyday wear',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 27.77,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Red/Black'
+    ],
+    material: 'Display: Digital | Watch Movement Type: Quartz | Additional Features: Chronograph | Power Source: Battery Powered | Strap Type: Resin Strap | Water Resistance Depth: 328.08 feet | Sport Type: excercise_&_fitness | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle | Item width: 4.5 inches | Material: Resin | Clasp type: Buckle',
+    badge: 'new',
+    images: [
+      '/907.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-908',
+    name: 'Casio Mens Casual Sport Watch (W753-1AV)',
+    brand_line: 'CASIO',
+    description: `Built for everyday durability, this sporty quartz watch features a 40mm case protected by scratch-resistant mineral crystal, ensuring your timepiece stays looking sharp through daily wear. The auto LED light with afterglow function offers easy visibility in low-light conditions, while 100M water resistance makes this watch suitable for swimming and snorkeling adventures. Finished with a secure buckle closure, this reliable, low-maintenance watch is ready to keep pace with your active lifestyle.`,
+    highlights: [
+      'Scratch-resistant mineral crystal protects the 40mm case from everyday wear and tear',
+
+      'Auto LED light with afterglow function provides easy visibility in low-light conditions',
+
+      '100M water resistance makes this watch suitable for swimming and snorkeling',
+
+      'Reliable quartz movement with a secure buckle closure for comfortable, everyday wear',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 28.48,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Grey/Black'
+    ],
+    material: 'Display: Analog, Digital | Watch Movement Type: Quartz | Additional Features: Light | Power Source: Battery Powered | Water Resistance Depth: 330 feet | Sport Type: Swimming, snorkeling | Clasp Type: Buckle | Embellishment Feature: Crystal | Closure Type: Buckle | Style Name: W-753-1AV | Shape: Round | Band Color: Black | Dial Color: digial | Theme: Sports',
+    badge: 'new',
+    images: [
+      '/908.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+ {
+    id: 'p-909',
+    name: 'Armitron Sport Mens Analog-Digital Chronograph Resin Strap Watch',
+    brand_line: 'ARMITRON',
+    description: `Built for performance and durability, this bold analog-digital watch features a metallic grey resin case with a black textured top ring for a rugged, sporty look. The clear display shows time, seconds, day, and date, while a comprehensive set of functions—including chronograph, lap time, 5 alarms, military time, a 100-year calendar, and countdown timer—keeps you on top of every task. An hourly chime and backlight with a three-second delay add convenience for low-light conditions. With 100 meter water resistance, this reliable quartz watch is ready for swimming, snorkeling, and everyday adventures.`,
+    highlights: [
+      'Metallic grey resin case with black textured top ring for a bold, sporty look',
+
+      'Comprehensive functions include chronograph, lap time, 5 alarms, and a 100-year calendar',
+
+      'Countdown timer, hourly chime, and backlight with three-second delay add everyday convenience',
+
+      '100 meter water resistance makes this watch suitable for swimming and snorkeling',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 33.65,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black',
+      'Red'
+    ],
+    material: 'Material: Resin | Display: Analog-Digital | Watch Movement Type: Quartz | Additional Features: Chronograph | Power Source: Battery Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 330 feet | Sport Type: excercise_&_fitness | Clasp Type: Tang Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'bestseller',
+    images: [
+      '/907.png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+ {
+    id: 'p-910',
+    name: 'Armitron Sport Mens Digital Chronograph Resin Strap Watch, 40/8284',
+    brand_line: 'ARMITRON',
+    description: `Make a bold statement with this rugged digital watch, featuring a sleek metallic black resin case and top ring paired with a durable stainless steel case back. The eye-catching reverse LCD display shows time, seconds, day, and date with light digits on a black background for a modern, tactical look. Packed with practical functions including chronograph, lap time, alarm, dual time, and military time, this watch keeps you on schedule wherever you go, with a backlight for easy visibility in low light. The matte black resin strap with buckle closure ensures a comfortable, secure fit for everyday wear.`,
+    highlights: [
+      'Metallic black resin case and top ring paired with a durable stainless steel case back',
+
+      'Reverse LCD display shows time, seconds, day, and date with a bold, modern look',
+
+      'Comprehensive functions include chronograph, lap time, alarm, dual time, and military time',
+
+      'Matte black resin strap with buckle closure ensures a comfortable, secure everyday fit',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 22.71,
+    compare_at_price: 25.00,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black',
+      'Black/Lime Green-(New)',
+      'Black/Red/Gold-(New)',
+      'Beige-(New)',
+      'Black/Blue',
+      'Black/Gold',
+      'Black/Purple/Blue-(New)',
+      'Green/Black',
+      'Grey/Orange',
+      'Grey/Yellow'
+    ],
+    material: 'Display: Digital | Watch Movement Type: Quartz | Additional Features: Alarm, Chronograph, Light Up | Power Source: Battery Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 330 feet | Sport Type: Exercise and Fitness | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/910 (1).png',
+      '/910 (2).png',
+      '/910 (3).png',
+      '/910 (4).png',
+      '/910 (5).png',
+      '/910 (6).png',
+      '/910 (7).png',
+      '/910 (8).png',
+      '/910 (9).png',
+      '/910 (10).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-911',
+    name: 'OLEVS Mens Sport Watch Large Face Digital & Analog Quartz Wrist Watch with LED Square Multi-Time Zone Waterproof Stopwatch',
+    brand_line: 'OLEVS',
+    description: `Express your unique style with this classic sport watch, featuring a simple yet distinctive design paired with a soft, breathable leather band for comfortable all-day wear. Powered by imported quartz movement and a Japan battery, this watch delivers precise timekeeping with three working time zones, a stopwatch, alarm, and date function on a large LED dial, perfect for work and travel. With 3 ATM water resistance, this watch handles splashes and brief water exposure with ease. Arriving in a nice gift box, this watch makes a thoughtful present for yourself, a father, boyfriend, or husband, backed by a 30-day refund policy and 24-month warranty.`,
+    highlights: [
+      'Classic sport design with a soft, breathable leather band for comfortable all-day wear',
+
+      'Precise quartz movement with three working time zones, stopwatch, alarm, and date on a large LED dial',
+
+      '3 ATM water resistance handles splashes and brief water exposure for daily use',
+
+      'Arrives in a gift box, backed by a 30-day refund policy and 24-month warranty',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 76.77,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blown/Gold',
+      'Black/Black',
+      'Black/Gold',
+      'Blown/White',
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Luminous | Power Source: battery as power source | Strap Type: Two Piece Strap | Water Resistance Depth: 30 meters | Sport Type: Fishing, Golf | Clasp Type: Buckle | Water Resistance Level: Waterproof | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'new',
+    images: [
+      '/911 (1).png',
+      '/911 (2).png',
+      '/911 (3).png',
+      '/911 (4).png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-912',
+    name: 'OLEVS Square Watch for Men Large Waterproof Multifunction Casual Men Watches Business Male Wrist Watch',
+    brand_line: 'OLEVS',
+    description: `Make a mature, fashion-forward statement with this bold square men's watch, featuring a striking 44mm gold-tone stainless steel case and black dial with luminous hands and hour markers. This multi-function chronograph boasts 3 sub-dials including moon phase, 60 minute, and 60 second displays, paired with a durable uni-directional stainless steel bezel for a sophisticated, trendy look. Super luminous hands make it easy to read the time in the dark, while 30M water resistance handles splashes, surfing, and water sports with confidence. Arriving in an OLEVS gift box, this eye-catching watch makes a memorable gift for any special occasion, backed by a 1-year warranty.`,
+    highlights: [
+      'Bold 44mm gold-tone stainless steel case with black dial and luminous hands for a fashion-forward look',
+
+      'Multi-function chronograph features 3 sub-dials including moon phase, 60 minute, and 60 second displays',
+
+      'Super luminous hands and calibration make it easy to read the time in the dark',
+
+      '30M water resistance handles splashes, surfing, and water sports, with an OLEVS gift box and 1-year warranty',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 49.77,
+    compare_at_price: 320.00,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black Black',
+      'Black Red Black',
+      'Black Silver Black',
+      'Bluee Blue',
+      'Red Black',
+      'Rose Gold Black White',
+      'Silver Blackk White',
+      'White Black Silver',
+      'White Silver Black',
+      'White White Black',
+      'Black White White'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Automatic | Additional Features: Chronograph, Easy Reader | Water Resistance Depth: 30 meters | Clasp Type: Push Button Hidden Clasp | Water Resistance Level: Waterproof',
+    badge: null,
+    images: [
+      '/912 (1).png',
+      '/912 (2).png',
+      '/912 (3).png',
+      '/912 (4).png',
+      '/912 (5).png',
+      '/912 (6).png',
+      '/912 (7).png',
+      '/912 (8).png',
+      '/912 (9).png',
+      '/912 (10).png',
+      '/912 (11).png',
+      '/912 (12).png',
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-913',
+    name: 'OLEVS Classic Mens Watch Diamond Analog Luxury Watches Stainless Steel Waterproof Date Two Tone Luminous Watch for Men',
+    brand_line: 'OLEVS',
+    description: `Make a luxurious statement with this diamond-embellished men's watch, featuring a sophisticated round dial encircled by brilliant diamonds and a textured gear-shaped bezel that adds striking dimension. A high-grade imported quartz movement guarantees exceptional time accuracy, while the durable stainless steel strap with a folding butterfly clasp allows for effortless, secure wear. The practical calendar window at 3 o'clock and luminous function ensure clear visibility for schedule planning day or night, and 30-meter water resistance handles handwashing, rain, and splashes with ease. Available in a range of colors and presented in an elegant gift box, this versatile watch is the perfect gift for fathers, husbands, or friends on any special occasion.`,
+    highlights: [
+      'Round dial encircled by brilliant diamonds with a textured gear-shaped bezel for luxurious, unique style',
+
+      'High-grade imported quartz movement with a durable stainless steel folding butterfly clasp',
+
+      'Calendar window and luminous function offer functional, clear visibility day and night',
+
+      '30-meter water resistance handles handwashing, rain, and splashes for reliable everyday wear',
+
+      'Available in versatile color options, arriving in an elegant gift box perfect for any occasion',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 35.00,
+    compare_at_price: 328.00,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'White Brown',
+      'Black Black Brown',
+      'Gold Green Gold',
+      'Green Brown',
+      'Silver White White',
+      'Black Gold Black'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Automatic | Additional Features: Chronograph, Easy Reader | Power Source: Quartz | Strap Type: Stainless Steel Strap | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Push Button Hidden Clasp | Water Resistance Level: Waterproof | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: null,
+    images: [
+      '/913 (1).png',
+      '/913 (2).png',
+      '/913 (3).png',
+      '/913 (4).png',
+      '/913 (5).png',
+      '/913 (6).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-914',
+    name: 'OLEVS Watch Men Square Luxury Business Analog Quartz Stainless Steel Dress Wrist Watch',
+    brand_line: 'OLEVS',
+    description: `Make a luxurious statement with this diamond-embellished men's watch, featuring a sophisticated round dial encircled by brilliant diamonds and a textured gear-shaped bezel that adds striking dimension. A high-grade imported quartz movement guarantees exceptional time accuracy, while the durable stainless steel strap with a folding butterfly clasp allows for effortless, secure wear. The practical calendar window at 3 o'clock and luminous function ensure clear visibility for schedule planning day or night, and 30-meter water resistance handles handwashing, rain, and splashes with ease. Available in a range of colors and presented in an elegant gift box, this versatile watch is the perfect gift for fathers, husbands, or friends on any special occasion.`,
+    highlights: [
+      'Round dial encircled by brilliant diamonds with a textured gear-shaped bezel for luxurious, unique style',
+
+      'High-grade imported quartz movement with a durable stainless steel folding butterfly clasp',
+
+      'Calendar window and luminous function offer functional, clear visibility day and night',
+
+      '30-meter water resistance handles handwashing, rain, and splashes for reliable everyday wear',
+
+      'Available in versatile color options, arriving in an elegant gift box perfect for any occasion',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 34.77,
+    compare_at_price: 135.77,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Gold Silver Blue',
+      'Gold Black',
+      'Black',
+      'Gold',
+      'Gold White',
+      'Black Gold Black'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Scratch-Resistant, luminous, waterproof | Power Source: Battery Powered | Strap Type: stainless steel | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Push Button Foldover Clasp With Safety | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle | Item width: 20 millimeters | Item type name: Casual Watch',
+    badge: null,
+    images: [
+      '/914 (1).png',
+      '/914 (2).png',
+      '/914 (3).png',
+      '/914 (4).png',
+      '/914 (5).png',
+      '/914 (6).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+
+  {
+    id: 'p-915',
+    name: 'OLEVS Mens Gold Watches Analog Quartz Business Dress Watch Day Date Stainless Steel Classic Luxury Luminous Waterproof Casual Male Wrist Watches',
+    brand_line: 'OLEVS',
+    description: `Make a classic, handsome statement with this OLEVS men's black watch, featuring a timeless analog design with gold indexes, a round case, and an easy-to-read date calendar display. Powered by original quartz movement and a high-quality battery with up to 3 years of battery life, this business-style watch delivers accurate, dependable timekeeping. Crafted from high-quality, multi-polished stainless steel, this watch is soft and comfortable to wear, and comes with an adjustment tool for a custom fit. With 30M water resistance and a luminous function for reading in the dark, this durable watch is a must-have for the modern man. Arriving in an OLEVS gift box, it's backed by a 30-day return period and 2-year warranty.`,
+    highlights: [
+      'Classic analog design with gold indexes and round case for a timeless, handsome business look',
+
+      'Original quartz movement with multi-calendar windows and up to 3 years of battery life',
+
+      'High-quality, multi-polished stainless steel is soft and comfortable to wear',
+
+      '30M water resistance and luminous function make this watch practical day or night',
+
+      'Arrives in an OLEVS gift box, backed by a 30-day return period and 2-year warranty',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 42.77,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black men watch',
+      'All black watch 23',
+      'Black Stainless Steel Blue Dial',
+      'Blue watch for men 23',
+      'Gold Stainless Steel Black Dial',
+      'Gold Stainless Steel Blue Dial',
+      'Gold Stainless Steel white Dial',
+      'Men black watch 23',
+      'Rose gold watch for men 23',
+      'Silver watch for men 23'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Business Dress Analog male Watches, Classic Date Easy Read Man Watch, OLEVS men Watches male Watches, Stainless Steel men black Watches, Waterproof man Watches Mesh Strap | Power Source: Quartz | Strap Type: Bracelet | Water Resistance Depth: 100 feet | Clasp Type: Push Button Hidden Clasp | Water Resistance Level: Waterproof',
+    badge: 'new',
+    images: [
+      '/915 (1).png',
+      '/915 (2).png',
+      '/915 (3).png',
+      '/915 (4).png',
+      '/915 (5).png',
+      '/915 (6).png',
+      '/915 (7).png',
+      '/915 (8).png',
+      '/915 (9).png',
+      '/915 (10).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+ {
+    id: 'p-916',
+    name: 'OLEVS Mens Gold Watches Analog Quartz Business Dress Watch Day Date Stainless Steel Classic Luxury Luminous Waterproof Casual Male Wrist Watches',
+    brand_line: 'OLEVS',
+    description: `Make a classic, handsome statement with this OLEVS men's black watch, featuring a timeless analog design with gold indexes, a round case, and an easy-to-read date calendar display. Powered by original quartz movement and a high-quality battery with up to 3 years of battery life, this business-style watch delivers accurate, dependable timekeeping. Crafted from high-quality, multi-polished stainless steel, this watch is soft and comfortable to wear, and comes with an adjustment tool for a custom fit. With 30M water resistance and a luminous function for reading in the dark, this durable watch is a must-have for the modern man. Arriving in an OLEVS gift box, it's backed by a 30-day return period and 2-year warranty.`,
+    highlights: [
+      'Classic analog design with gold indexes and round case for a timeless, handsome business look',
+
+      'Original quartz movement with multi-calendar windows and up to 3 years of battery life',
+
+      'High-quality, multi-polished stainless steel is soft and comfortable to wear',
+
+      '30M water resistance and luminous function make this watch practical day or night',
+
+      'Arrives in an OLEVS gift box, backed by a 30-day return period and 2-year warranty',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 42.77,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black men watch',
+      'All black watch 23',
+      'Black Stainless Steel Blue Dial',
+      'Blue watch for men 23',
+      'Gold Stainless Steel Black Dial',
+      'Gold Stainless Steel Blue Dial',
+      'Gold Stainless Steel white Dial',
+      'Men black watch 23',
+      'Rose gold watch for men 23',
+      'Silver watch for men 23'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Business Dress Analog male Watches, Classic Date Easy Read Man Watch, OLEVS men Watches male Watches, Stainless Steel men black Watches, Waterproof man Watches Mesh Strap | Power Source: Quartz | Strap Type: Bracelet | Water Resistance Depth: 100 feet | Clasp Type: Push Button Hidden Clasp | Water Resistance Level: Waterproof',
+    badge: 'new',
+    images: [
+      '/915 (1).png',
+      '/915 (2).png',
+      '/915 (3).png',
+      '/915 (4).png',
+      '/915 (5).png',
+      '/915 (6).png',
+      '/915 (7).png',
+      '/915 (8).png',
+      '/915 (9).png',
+      '/915 (10).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      //////Women Watches
+
+  {
+    id: 'p-011',
+    name: 'Mother-of-Pearl Dress Watch',
+    brand_line: 'Maison Verdelle',
+    description:
+      'A 32mm dress watch with a mother-of-pearl dial and a slim satin strap. Quartz movement, sapphire crystal, water resistant to 30m.',
+    gender: 'women',
+    category: 'watches',
+    price: 1450,
+    compare_at_price: 1650,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['White Dial', 'Blush Dial'],
+    material: 'Stainless Steel',
+    badge: 'bestseller',
+    images: [
+      'https://images.pexels.com/photos/9978722/pexels-photo-9978722.jpeg',
+      'https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-14T09:00:00Z',
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             //////Jewellry
+  
+  {
+    id: 'p-010',
+    name: 'Pearl Drop Earrings',
+    brand_line: 'Atelier',
+    description:
+      'Freshwater pearls suspended from brushed gold-vermeil settings. Lightweight enough for everyday wear, refined enough for evening.',
+    gender: 'women',
+    category: 'jewelry',
+    price: 245,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Gold'],
+    material: 'Gold Vermeil, Freshwater Pearl',
+    badge: 'limited',
+    images: [
+      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+
+  {
+    id: 'p-016',
+    name: 'Chunky Chain Bracelet',
+    brand_line: null,
+    description:
+      'A substantial curb-chain bracelet in brushed sterling silver with a hidden box clasp. Unisex sizing, adjustable at three lengths.',
+    gender: 'unisex',
+    category: 'jewelry',
+    price: 210,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['S/M', 'M/L'],
+    colors: ['Silver'],
+    material: 'Sterling Silver',
+    badge: null,
+    images: [
+      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2025-11-30T09:00:00Z',
   },
 
   {
@@ -86,78 +936,72 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-03-10T09:00:00Z',
   },
+
+
   
-  {
-    id: 'p-005',
-    name: 'Automatic Field Watch',
-    brand_line: 'Maison Verdelle',
-    description:
-      'A 39mm automatic watch with a sapphire crystal, sunburst dial, and calfskin strap. Powered by a Swiss automatic movement visible through the exhibition caseback.',
-    gender: 'men',
-    category: 'watches',
-    price: 1850,
-    compare_at_price: 2100,
-    currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['Navy Dial', 'Black Dial'],
-    material: 'Stainless Steel',
-    badge: 'bestseller',
-    images: [
-      'https://images.pexels.com/photos/9978722/pexels-photo-9978722.jpeg',
-      'https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg',
-    ],
-    featured: true,
-    in_stock: true,
-    created_at: '2026-02-28T09:00:00Z',
-  },
-
-
-  {
-    id: 'p-010',
-    name: 'Pearl Drop Earrings',
-    brand_line: 'Atelier',
-    description:
-      'Freshwater pearls suspended from brushed gold-vermeil settings. Lightweight enough for everyday wear, refined enough for evening.',
-    gender: 'women',
-    category: 'jewelry',
-    price: 245,
-    compare_at_price: null,
-    currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['Gold'],
-    material: 'Gold Vermeil, Freshwater Pearl',
-    badge: 'limited',
-    images: [
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
-    ],
-    featured: false,
-    in_stock: true,
-    created_at: '2026-03-30T09:00:00Z',
-  },
-  {
-    id: 'p-011',
-    name: 'Mother-of-Pearl Dress Watch',
-    brand_line: 'Maison Verdelle',
-    description:
-      'A 32mm dress watch with a mother-of-pearl dial and a slim satin strap. Quartz movement, sapphire crystal, water resistant to 30m.',
-    gender: 'women',
-    category: 'watches',
-    price: 1450,
-    compare_at_price: 1650,
-    currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['White Dial', 'Blush Dial'],
-    material: 'Stainless Steel',
-    badge: 'bestseller',
-    images: [
-      'https://images.pexels.com/photos/9978722/pexels-photo-9978722.jpeg',
-      'https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg',
-    ],
-    featured: true,
-    in_stock: true,
-    created_at: '2026-02-14T09:00:00Z',
-  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                //////Accessories
 
   {
     id: 'p-012',
@@ -205,6 +1049,53 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-01-18T09:00:00Z',
   },
+    {
+    id: 'p-019',
+    name: 'Cashmere-Blend Scarf',
+    brand_line: null,
+    description:
+      'An oversized scarf in a cashmere-wool blend with a soft brushed hand-feel. Woven in a small mill in Scotland.',
+    gender: 'women',
+    category: 'accessories',
+    price: 225,
+    compare_at_price: 265,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Camel', 'Grey', 'Blush'],
+    material: 'Cashmere-Wool Blend',
+    badge: 'bestseller',
+    images: [
+      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
+      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-02-08T09:00:00Z',
+  },  
+
+  {
+    id: 'p-015',
+    name: 'Woven Cotton Scarf',
+    brand_line: 'Atelier',
+    description:
+      'A generously sized scarf woven from Egyptian cotton with a hand-finished fringe. Light enough for layering in every season.',
+    gender: 'unisex',
+    category: 'accessories',
+    price: 145,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Bronze', 'Navy', 'Ivory'],
+    material: '100% Cotton',
+    badge: 'new',
+    images: [
+      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
+      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-06-25T09:00:00Z',
+  },
 
 
 
@@ -227,7 +1118,9 @@ export const PRODUCTS: Product[] = [
 
 
 
-                      /////CLOTHES WOMENNNN
+
+
+                                /////CLOTHES WOMENNNN
 
   
   {
@@ -3326,7 +4219,7 @@ export const PRODUCTS: Product[] = [
 
 
 
-              // SHOESSSSSS 
+                                            ///// Women SHOESSSSSS 
   {
     id: 'p-500',
     name: 'Womens Comfortable & Lightweight Leather Loafers Slip-Ons Driving Walking Mocs Boat Shoes Cute Business Casual Dress Shoes Work Flats for Women',
@@ -4029,8 +4922,55 @@ export const PRODUCTS: Product[] = [
 
 
 
+                          ///////Mens Clothing
 
+  {
 
+    id: 'p-001',
+    name: 'Cashmere Overcoat',
+    brand_line: 'Heritage',
+    description:
+      'A single-breasted overcoat cut from 100% Italian cashmere. Structured shoulders, a full canvas construction, and a length designed to move with you through the coldest months.',
+    gender: 'men',
+    category: 'clothing',
+    price: 2450,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['46', '48', '50', '52', '54'],
+    colors: ['Camel', 'Charcoal', 'Navy'],
+    material: '100% Cashmere',
+    badge: 'new',
+    images: [
+      'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg',
+      'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-06-01T09:00:00Z',
+  },
+  {
+    id: 'p-002',
+    name: 'Merino Crewneck Sweater',
+    brand_line: null,
+    description:
+      'A fine-gauge merino wool sweater knit in Scotland. Soft against the skin, with a ribbed hem and cuffs for a clean, considered silhouette.',
+    gender: 'men',
+    category: 'clothing',
+    price: 380,
+    compare_at_price: 460,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL'],
+    colors: ['Forest', 'Stone', 'Black'],
+    material: '100% Merino Wool',
+    badge: 'bestseller',
+    images: [
+      'https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg',
+      'https://images.pexels.com/photos/1183267/pexels-photo-1183267.jpeg',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-05-20T09:00:00Z',
+  },
 
   {
     id: 'p-800',
