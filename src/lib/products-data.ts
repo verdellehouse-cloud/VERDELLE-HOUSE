@@ -5393,4 +5393,82 @@ export const PRODUCTS: Product[] = [
  
 
 
+  
+
+  {
+    id: 'p-019',
+    name: 'Cashmere-Blend Scarf',
+    brand_line: null,
+    description:
+      'An oversized scarf in a cashmere-wool blend with a soft brushed hand-feel. Woven in a small mill in Scotland.',
+    gender: 'women',
+    category: 'accessories',
+    price: 225,
+    compare_at_price: 265,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Camel', 'Grey', 'Blush'],
+    material: 'Cashmere-Wool Blend',
+    badge: 'bestseller',
+    images: [
+      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
+      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-02-08T09:00:00Z',
+  },  
+
+  {
+    id: 'p-015',
+    name: 'Woven Cotton Scarf',
+    brand_line: 'Atelier',
+    description:
+      'A generously sized scarf woven from Egyptian cotton with a hand-finished fringe. Light enough for layering in every season.',
+    gender: 'unisex',
+    category: 'accessories',
+    price: 145,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Bronze', 'Navy', 'Ivory'],
+    material: '100% Cotton',
+    badge: 'new',
+    images: [
+      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
+      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-06-25T09:00:00Z',
+  },
+  {
+    id: 'p-016',
+    name: 'Chunky Chain Bracelet',
+    brand_line: null,
+    description:
+      'A substantial curb-chain bracelet in brushed sterling silver with a hidden box clasp. Unisex sizing, adjustable at three lengths.',
+    gender: 'unisex',
+    category: 'jewelry',
+    price: 210,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['S/M', 'M/L'],
+    colors: ['Silver'],
+    material: 'Sterling Silver',
+    badge: null,
+    images: [
+      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2025-11-30T09:00:00Z',
+  },
+
+  
+
+
+
+
 ];
