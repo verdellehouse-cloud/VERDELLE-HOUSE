@@ -808,6 +808,44 @@ export const PRODUCTS: Product[] = [
   },
 
 
+   {
+    id: 'p-917',
+    name: 'Movado Bold TR90 Mens Swiss Quartz Watch',
+    brand_line: 'Movado',
+    description: "Make a bold statement with the Movado BOLD TR90, featuring an ultra-lightweight TR90 composite case in black paired with a smooth, textured black silicone strap. This men's chronograph watch combines sport-inspired design with reliable quartz movement, offering a sleek, modern look that's ready for everyday wear.",
+    highlights: [
+      "BOLD TR90 DESIGN: Sport-inspired design crafted from ultra-lightweight TR90 composite material with a smooth, textured silicone strap.",
+      "SLEEK COLORWAY: Black TR90 case with a black dial and matching black silicone strap for a modern, versatile look.",
+      "QUARTZ CHRONOGRAPH MOVEMENT: Battery-powered quartz movement with a chronograph function, featuring an independent sweep second hand that can be started, stopped, and reset via the stem.",
+      "WATER RESISTANT: Water resistant up to 30m (100 ft) / 3 ATM, suitable for splashes or brief immersion but not for swimming or showering.",
+      "LASTING QUALITY: Crafted with meticulous attention to quality and detail; a maintenance interval of 3 to 5 years is recommended along with battery replacement as needed.",
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 750,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Chronograph-Black',
+      'Three Hand-Black',
+      'Three Hand-White',
+
+    ],
+    material: 'Display: Analog | Movement: Swiss Quartz | Additional Features: Chronograph, Lightweight, Water Resistant | Water Resistance: 30 meters, Water Resistant | Clasp: Tang Buckle',
+    badge: 'bestseller',
+    images: [
+      '/917 (1).png',
+      '/917 (2).png',
+      '/917 (3).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+
 
 
 
