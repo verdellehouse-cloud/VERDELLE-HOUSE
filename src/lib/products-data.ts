@@ -822,6 +822,182 @@ export const PRODUCTS: Product[] = [
 
 
 
+  {
+    id: 'p-918',
+    name: 'BESTKANG Men Quartz Movement Watch Waterproof Luminous Mens Watch, Stainless Steel Strap Business Watches',
+    brand_line: 'BESTKANG',
+    description: `Stay sharp and on schedule with this classic men's watch, featuring original quartz movement for precise, accurate timekeeping and an easy-to-read date display at 3 o'clock. The comfortable stainless steel strap pairs effortlessly with any outfit, making it perfect for the professional or everyday man. HD luminous hands absorb light energy for easy nighttime reading, while 30m water resistance handles handwashing, rain, and daily activities with ease. Versatile enough for business, leisure, or casual occasions, this stylish watch also makes a thoughtful gift for father, friends, or partners.`,
+    highlights: [
+      'Original quartz movement delivers precise, accurate timekeeping with an easy-to-read date display',
+
+      'Comfortable stainless steel strap pairs effortlessly with any professional or casual outfit',
+
+      'HD luminous hands absorb light energy for easy time reading at night',
+
+      '30m water resistance handles handwashing, rain, and daily activities with confidence',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 24,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue',
+      'Black',
+      'Green',
+      'Grey',
+      'Rose gold Black',
+      'Rose gold',
+      'Silver Black',
+      'Silver Blue',
+      'Silver Green',
+      'Silver White',
+      'Silver-Green',
+      'Silver-Black',
+      'Two Color Blue',
+      'White',
+      'Silver-Red'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Glow In The Dark | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Clasp Type: Double Locking Foldover Clasp | Water Resistance Level: Waterproof | Closure Type: Buckle',
+    badge: 'new',
+    images: [
+      '/918 (1).png',
+      '/918 (2).png',
+      '/918 (3).png',
+      '/918 (4).png',
+      '/918 (5).png',
+      '/918 (6).png',
+      '/918 (7).png',
+      '/918 (8).png',
+      '/918 (9).png',
+      '/918 (10).png',
+      '/918 (11).png',
+      '/918 (12).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },
+
+  {
+    id: 'p-919',
+    name: 'NIBOSI Mens Analog Quartz Watch, Rose Gold Stainless Steel, Day Date 100 FT Waterproof, Luxury Brown Dial Diamond Bezel, Business Classic Dress Wrist Watches for Men',
+    brand_line: 'NIBOSI',
+    description: `Transition effortlessly from business meetings to casual settings with this classic NIBOSI rose gold watch, featuring a 1.54 inch dial with day-date calendar display and an elegant diamond bezel design. Powered by precision quartz movement, this watch delivers exceptional accuracy with a long-lasting replaceable battery and scratch-resistant mineral crystal glass. The solid stainless steel case and bracelet band feature a secure push-button foldover clasp, plus an included adjustment tool for a customized fit on most wrists. With 100 FT water resistance, this durable watch handles handwashing, rain, and splashes with ease. Presented in premium packaging, it's an exquisite gift for husbands, fathers, or friends, backed by a 12-month warranty.`,
+    highlights: [
+      '1.54 inch dial with day-date calendar display and diamond bezel transitions from business to casual style',
+
+      'Precision quartz movement with replaceable battery and scratch-resistant mineral crystal glass',
+
+      'Solid stainless steel case and band with secure push-button foldover clasp and adjustment tool',
+
+      '100 FT water resistance handles handwashing, rain, and splashes for versatile everyday wear',
+
+      'Presented in premium packaging with a 12-month warranty, ideal as a gift for any occasion',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 39.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Gold',
+      'Gold Black',
+      'Gold Red',
+      'Gold Silver White',
+      'Rose Brown',
+      'Rose Green',
+      'Silver',
+      'Silver Black',
+      'Silver Blue',
+      'Silver Green',
+      'Silver Light Blue',
+      'Silver Orange',
+      'Silver Pink',
+      'Silver Purple',
+      'Silver Red'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Calendar Display, Stainless Steel Case, Water Resistant | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 100 feet | Sport Type: Walking | Clasp Type: Push Button Foldover Clasp With Safety | Water Resistance Level: Water Resistant | Closure Type: Push-Button | Item type name: Dress Watch',
+    badge: 'new',
+    images: [
+      '/919 (1).png',
+      '/919 (2).png',
+      '/919 (3).png',
+      '/919 (4).png',
+      '/919 (5).png',
+      '/919 (6).png',
+      '/919 (7).png',
+      '/919 (8).png',
+      '/919 (9).png',
+      '/919 (10).png',
+      '/919 (11).png',
+      '/919 (12).png',
+      '/919 (13).png',
+      '/919 (14).png',
+      '/919 (15).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },  
+
+
+  {
+    id: 'p-920',
+    name: 'BENYAR Mens Mechanical Automatic Watch | Leather Strap | Gold Movement | 45mm Skeleton Dial | Water Resistant and Scratch Resistant Stylish Gift',
+    brand_line: 'BENYAR',
+    description: `Make a sophisticated statement with this elegant BENYAR automatic mechanical watch, featuring a striking black skeleton dial with thick glass and a genuine brown leather strap for a refined, timeless look. The high-quality stainless steel case houses noble blue pointer hands, while automatic movement delivers reliable performance without the need for battery changes. Soft, comfortable, and fully flexible, this durable watch withstands 30M water pressure, sweat, and splashes with ease. Versatile enough for business, leisure, or everyday wear, this watch is a stylish choice for you or a thoughtful gift for a loved one.`,
+    highlights: [
+      'Elegant black skeleton dial with thick glass and genuine brown leather strap for a refined look',
+
+      'Automatic mechanical movement with noble blue pointer hands delivers reliable performance',
+
+      'High-quality stainless steel case with a soft, comfortable, fully flexible strap',
+
+      '30M water resistance withstands sweat, accidental rain, or splashing water',
+
+      'Versatile for business, leisure, or everyday wear, and a great gift for loved ones',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 84.99,
+    compare_at_price: 299.99,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black gray',
+      'Grey 1',
+      'Silver black',
+      'Silver BLUE',
+      'Black',
+      'Black Blue-06',
+      'Black Rose Black'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Automatic | Additional Features: Luminous | Power Source: Automatic | Strap Type: Leather Strap | Water Resistance Depth: 30 meters | Sport Type: Golf, Tennis | Clasp Type: Buckle | Water Resistance Level: Waterproof | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/920 (1).png',
+      '/920 (2).png',
+      '/920 (3).png',
+      '/920 (4).png',
+      '/920 (5).png',
+      '/920 (6).png',
+      '/920 (7).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },  
+
+
 
 
 
@@ -908,7 +1084,7 @@ export const PRODUCTS: Product[] = [
     brand_line: null,
     description:
       'A substantial curb-chain bracelet in brushed sterling silver with a hidden box clasp. Unisex sizing, adjustable at three lengths.',
-    gender: 'unisex',
+    gender: 'women',
     category: 'jewelry',
     price: 210,
     compare_at_price: null,
@@ -1092,7 +1268,7 @@ export const PRODUCTS: Product[] = [
     brand_line: 'Atelier',
     description:
       'A generously sized scarf woven from Egyptian cotton with a hand-finished fringe. Light enough for layering in every season.',
-    gender: 'unisex',
+    gender: 'women',
     category: 'accessories',
     price: 145,
     compare_at_price: null,
