@@ -13,82 +13,10 @@ import type { Product } from '@/types';
  * URLs used directly in <img src="..."> tags, no storage/service required.
  */
 export const PRODUCTS: Product[] = [
-  {
 
 
-                      ///MEN CLOTHING
-    id: 'p-001',
-    name: 'Cashmere Overcoat',
-    brand_line: 'Heritage',
-    description:
-      'A single-breasted overcoat cut from 100% Italian cashmere. Structured shoulders, a full canvas construction, and a length designed to move with you through the coldest months.',
-    gender: 'men',
-    category: 'clothing',
-    price: 2450,
-    compare_at_price: null,
-    currency: 'USD',
-    sizes: ['46', '48', '50', '52', '54'],
-    colors: ['Camel', 'Charcoal', 'Navy'],
-    material: '100% Cashmere',
-    badge: 'new',
-    images: [
-      'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg',
-      'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg',
-    ],
-    featured: true,
-    in_stock: true,
-    created_at: '2026-06-01T09:00:00Z',
-  },
-  {
-    id: 'p-002',
-    name: 'Merino Crewneck Sweater',
-    brand_line: null,
-    description:
-      'A fine-gauge merino wool sweater knit in Scotland. Soft against the skin, with a ribbed hem and cuffs for a clean, considered silhouette.',
-    gender: 'men',
-    category: 'clothing',
-    price: 380,
-    compare_at_price: 460,
-    currency: 'USD',
-    sizes: ['S', 'M', 'L', 'XL'],
-    colors: ['Forest', 'Stone', 'Black'],
-    material: '100% Merino Wool',
-    badge: 'bestseller',
-    images: [
-      'https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg',
-      'https://images.pexels.com/photos/1183267/pexels-photo-1183267.jpeg',
-    ],
-    featured: true,
-    in_stock: true,
-    created_at: '2026-05-20T09:00:00Z',
-  },
 
-  {
-    id: 'p-004',
-    name: 'Brushed Signet Ring',
-    brand_line: null,
-    description:
-      'A weighted signet ring in brushed bronze, designed to patina gracefully with wear. Each piece is cast individually and finished by hand.',
-    gender: 'men',
-    category: 'jewelry',
-    price: 320,
-    compare_at_price: null,
-    currency: 'USD',
-    sizes: ['7', '8', '9', '10', '11', '12'],
-    colors: ['Bronze', 'Silver'],
-    material: 'Brushed Bronze',
-    badge: 'limited',
-    images: [
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
-    ],
-    featured: false,
-    in_stock: true,
-    created_at: '2026-03-10T09:00:00Z',
-  },
-
-
-        //WATCHES
+                      ////////MENS WATCHES
 
   
   {
@@ -824,51 +752,76 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-02-28T09:00:00Z',
   },
 
+ {
+    id: 'p-916',
+    name: 'OLEVS Mens Gold Watches Analog Quartz Business Dress Watch Day Date Stainless Steel Classic Luxury Luminous Waterproof Casual Male Wrist Watches',
+    brand_line: 'OLEVS',
+    description: `Make a classic, handsome statement with this OLEVS men's black watch, featuring a timeless analog design with gold indexes, a round case, and an easy-to-read date calendar display. Powered by original quartz movement and a high-quality battery with up to 3 years of battery life, this business-style watch delivers accurate, dependable timekeeping. Crafted from high-quality, multi-polished stainless steel, this watch is soft and comfortable to wear, and comes with an adjustment tool for a custom fit. With 30M water resistance and a luminous function for reading in the dark, this durable watch is a must-have for the modern man. Arriving in an OLEVS gift box, it's backed by a 30-day return period and 2-year warranty.`,
+    highlights: [
+      'Classic analog design with gold indexes and round case for a timeless, handsome business look',
 
+      'Original quartz movement with multi-calendar windows and up to 3 years of battery life',
 
+      'High-quality, multi-polished stainless steel is soft and comfortable to wear',
 
+      '30M water resistance and luminous function make this watch practical day or night',
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  {
-
-    id: 'p-010',
-    name: 'Pearl Drop Earrings',
-    brand_line: 'Atelier',
-    description:
-      'Freshwater pearls suspended from brushed gold-vermeil settings. Lightweight enough for everyday wear, refined enough for evening.',
-    gender: 'women',
-    category: 'jewelry',
-    price: 245,
+      'Arrives in an OLEVS gift box, backed by a 30-day return period and 2-year warranty',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 42.77,
     compare_at_price: null,
     currency: 'USD',
     sizes: ['One Size'],
-    colors: ['Gold'],
-    material: 'Gold Vermeil, Freshwater Pearl',
-    badge: 'limited',
-    images: [
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+    colors: [
+      'Black men watch',
+      'All black watch 23',
+      'Black Stainless Steel Blue Dial',
+      'Blue watch for men 23',
+      'Gold Stainless Steel Black Dial',
+      'Gold Stainless Steel Blue Dial',
+      'Gold Stainless Steel white Dial',
+      'Men black watch 23',
+      'Rose gold watch for men 23',
+      'Silver watch for men 23'
+
     ],
-    featured: false,
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Business Dress Analog male Watches, Classic Date Easy Read Man Watch, OLEVS men Watches male Watches, Stainless Steel men black Watches, Waterproof man Watches Mesh Strap | Power Source: Quartz | Strap Type: Bracelet | Water Resistance Depth: 100 feet | Clasp Type: Push Button Hidden Clasp | Water Resistance Level: Waterproof',
+    badge: 'new',
+    images: [
+      '/915 (1).png',
+      '/915 (2).png',
+      '/915 (3).png',
+      '/915 (4).png',
+      '/915 (5).png',
+      '/915 (6).png',
+      '/915 (7).png',
+      '/915 (8).png',
+      '/915 (9).png',
+      '/915 (10).png'
+      
+    ],
+    featured: true,
     in_stock: true,
-    created_at: '2026-03-30T09:00:00Z',
+    created_at: '2026-02-28T09:00:00Z',
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      //////Women Watches
+
   {
     id: 'p-011',
     name: 'Mother-of-Pearl Dress Watch',
@@ -892,6 +845,163 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-02-14T09:00:00Z',
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             //////Jewellry
+  
+  {
+    id: 'p-010',
+    name: 'Pearl Drop Earrings',
+    brand_line: 'Atelier',
+    description:
+      'Freshwater pearls suspended from brushed gold-vermeil settings. Lightweight enough for everyday wear, refined enough for evening.',
+    gender: 'women',
+    category: 'jewelry',
+    price: 245,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Gold'],
+    material: 'Gold Vermeil, Freshwater Pearl',
+    badge: 'limited',
+    images: [
+      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+
+  {
+    id: 'p-016',
+    name: 'Chunky Chain Bracelet',
+    brand_line: null,
+    description:
+      'A substantial curb-chain bracelet in brushed sterling silver with a hidden box clasp. Unisex sizing, adjustable at three lengths.',
+    gender: 'unisex',
+    category: 'jewelry',
+    price: 210,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['S/M', 'M/L'],
+    colors: ['Silver'],
+    material: 'Sterling Silver',
+    badge: null,
+    images: [
+      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2025-11-30T09:00:00Z',
+  },
+
+  {
+    id: 'p-004',
+    name: 'Brushed Signet Ring',
+    brand_line: null,
+    description:
+      'A weighted signet ring in brushed bronze, designed to patina gracefully with wear. Each piece is cast individually and finished by hand.',
+    gender: 'men',
+    category: 'jewelry',
+    price: 320,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['7', '8', '9', '10', '11', '12'],
+    colors: ['Bronze', 'Silver'],
+    material: 'Brushed Bronze',
+    badge: 'limited',
+    images: [
+      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
+      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-10T09:00:00Z',
+  },
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                //////Accessories
 
   {
     id: 'p-012',
@@ -939,6 +1049,53 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-01-18T09:00:00Z',
   },
+    {
+    id: 'p-019',
+    name: 'Cashmere-Blend Scarf',
+    brand_line: null,
+    description:
+      'An oversized scarf in a cashmere-wool blend with a soft brushed hand-feel. Woven in a small mill in Scotland.',
+    gender: 'women',
+    category: 'accessories',
+    price: 225,
+    compare_at_price: 265,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Camel', 'Grey', 'Blush'],
+    material: 'Cashmere-Wool Blend',
+    badge: 'bestseller',
+    images: [
+      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
+      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-02-08T09:00:00Z',
+  },  
+
+  {
+    id: 'p-015',
+    name: 'Woven Cotton Scarf',
+    brand_line: 'Atelier',
+    description:
+      'A generously sized scarf woven from Egyptian cotton with a hand-finished fringe. Light enough for layering in every season.',
+    gender: 'unisex',
+    category: 'accessories',
+    price: 145,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: ['Bronze', 'Navy', 'Ivory'],
+    material: '100% Cotton',
+    badge: 'new',
+    images: [
+      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
+      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-06-25T09:00:00Z',
+  },
 
 
 
@@ -961,7 +1118,9 @@ export const PRODUCTS: Product[] = [
 
 
 
-                      /////CLOTHES WOMENNNN
+
+
+                                /////CLOTHES WOMENNNN
 
   
   {
@@ -4060,7 +4219,7 @@ export const PRODUCTS: Product[] = [
 
 
 
-              // SHOESSSSSS 
+                                            ///// Women SHOESSSSSS 
   {
     id: 'p-500',
     name: 'Womens Comfortable & Lightweight Leather Loafers Slip-Ons Driving Walking Mocs Boat Shoes Cute Business Casual Dress Shoes Work Flats for Women',
@@ -4763,8 +4922,55 @@ export const PRODUCTS: Product[] = [
 
 
 
+                          ///////Mens Clothing
 
+  {
 
+    id: 'p-001',
+    name: 'Cashmere Overcoat',
+    brand_line: 'Heritage',
+    description:
+      'A single-breasted overcoat cut from 100% Italian cashmere. Structured shoulders, a full canvas construction, and a length designed to move with you through the coldest months.',
+    gender: 'men',
+    category: 'clothing',
+    price: 2450,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['46', '48', '50', '52', '54'],
+    colors: ['Camel', 'Charcoal', 'Navy'],
+    material: '100% Cashmere',
+    badge: 'new',
+    images: [
+      'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg',
+      'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-06-01T09:00:00Z',
+  },
+  {
+    id: 'p-002',
+    name: 'Merino Crewneck Sweater',
+    brand_line: null,
+    description:
+      'A fine-gauge merino wool sweater knit in Scotland. Soft against the skin, with a ribbed hem and cuffs for a clean, considered silhouette.',
+    gender: 'men',
+    category: 'clothing',
+    price: 380,
+    compare_at_price: 460,
+    currency: 'USD',
+    sizes: ['S', 'M', 'L', 'XL'],
+    colors: ['Forest', 'Stone', 'Black'],
+    material: '100% Merino Wool',
+    badge: 'bestseller',
+    images: [
+      'https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg',
+      'https://images.pexels.com/photos/1183267/pexels-photo-1183267.jpeg',
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-05-20T09:00:00Z',
+  },
 
   {
     id: 'p-800',
@@ -5172,84 +5378,6 @@ export const PRODUCTS: Product[] = [
   },
  
  
-
-
-
-
-  {
-    id: 'p-019',
-    name: 'Cashmere-Blend Scarf',
-    brand_line: null,
-    description:
-      'An oversized scarf in a cashmere-wool blend with a soft brushed hand-feel. Woven in a small mill in Scotland.',
-    gender: 'women',
-    category: 'accessories',
-    price: 225,
-    compare_at_price: 265,
-    currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['Camel', 'Grey', 'Blush'],
-    material: 'Cashmere-Wool Blend',
-    badge: 'bestseller',
-    images: [
-      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
-      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
-    ],
-    featured: false,
-    in_stock: true,
-    created_at: '2026-02-08T09:00:00Z',
-  },  
-
-  {
-    id: 'p-015',
-    name: 'Woven Cotton Scarf',
-    brand_line: 'Atelier',
-    description:
-      'A generously sized scarf woven from Egyptian cotton with a hand-finished fringe. Light enough for layering in every season.',
-    gender: 'unisex',
-    category: 'accessories',
-    price: 145,
-    compare_at_price: null,
-    currency: 'USD',
-    sizes: ['One Size'],
-    colors: ['Bronze', 'Navy', 'Ivory'],
-    material: '100% Cotton',
-    badge: 'new',
-    images: [
-      'https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg',
-      'https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg',
-    ],
-    featured: false,
-    in_stock: true,
-    created_at: '2026-06-25T09:00:00Z',
-  },
-  {
-    id: 'p-016',
-    name: 'Chunky Chain Bracelet',
-    brand_line: null,
-    description:
-      'A substantial curb-chain bracelet in brushed sterling silver with a hidden box clasp. Unisex sizing, adjustable at three lengths.',
-    gender: 'unisex',
-    category: 'jewelry',
-    price: 210,
-    compare_at_price: null,
-    currency: 'USD',
-    sizes: ['S/M', 'M/L'],
-    colors: ['Silver'],
-    material: 'Sterling Silver',
-    badge: null,
-    images: [
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
-    ],
-    featured: false,
-    in_stock: true,
-    created_at: '2025-11-30T09:00:00Z',
-  },
-
-
-
-
 
 
 ];
