@@ -960,7 +960,7 @@ export const PRODUCTS: Product[] = [
       "SATISFACTION GUARANTEE: Backed by a 60-day satisfaction promise from a proud American-owned business committed to quality and exceptional customer service.",
       "SUSTAINABLY CRAFTED: Made from 100% recycled materials and packaged in 99% recycled materials, supporting a business committed to reducing environmental impact.",
     ],
-    gender: 'women',
+    gender: 'women',  
     category: 'jewelry',
     price: 14.95,
     compare_at_price: null,
