@@ -1155,35 +1155,94 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-03-30T09:00:00Z',
   },
-
-  {
-    id: 'p-004',
-    name: 'Brushed Signet Ring',
-    brand_line: null,
-    description:
-      'A weighted signet ring in brushed bronze, designed to patina gracefully with wear. Each piece is cast individually and finished by hand.',
-    gender: 'men',
+{
+    id: 'p-1002',
+    name: 'SWEET PEEPS 18K Gold Dipped CZ Tennis Bracelet for Women, Marquise Cut Cubic Zirconia Adjustable Bracelet, Dainty Gold Jewelry for Everyday Wear',
+    brand_line: 'SWEET PEEPS',
+    description: "Add graceful, feminine sparkle to your everyday look with this marquise cut cubic zirconia bracelet, finished in a warm 18K gold dipped plating for a polished, radiant glow. Designed with a smooth sliding closure that adjusts up to 8 inches, this lightweight bracelet offers a comfortable, flexible fit that moves naturally with you. From casual days to dressed-up evenings, this timeless piece is a versatile addition to any jewelry collection.",
+    highlights: [
+      "WOMEN-LED & AMERICAN OWNED: SWEET PEEPS is a women-led, USA-based brand creating jewelry that feels personal, beautifully made, and easy to love.",
+      "ELEGANT MARQUISE CZ DESIGN: Marquise-shaped cubic zirconia stones create an elongated, graceful sparkle that feels feminine, refined, and timeless.",
+      "RADIANT 18K GOLD DIPPED FINISH: Warm 18K gold dipped plating gives the bracelet a polished shine that's elegant yet effortlessly wearable day to night.",
+      "ADJUSTABLE FIT UP TO 8 INCHES: Smooth sliding closure adjusts easily and expands up to 8 inches for a comfortable, flexible fit that sits beautifully on the wrist.",
+      "LIGHTWEIGHT & COMFORTABLE: Thoughtfully crafted to feel light on the wrist, moving naturally with you throughout the day without sacrificing sparkle.",
+      "VERSATILE EVERYDAY SPARKLE: Perfect for daily wear or special occasions, transitioning seamlessly from casual moments to dressed-up looks.",
+    ],
+    gender: 'women',  
     category: 'jewelry',
-    price: 320,
+    price: 22.95,
     compare_at_price: null,
     currency: 'USD',
-    sizes: ['7', '8', '9', '10', '11', '12'],
-    colors: ['Bronze', 'Silver'],
-    material: 'Brushed Bronze',
-    badge: 'limited',
+    sizes: ['one size'],
+    colors: ['Marquise-Gold'],
+    material: 'Yellow Gold | Metal Type: Yellow Gold | Clasp Type: Slide | Chain Type: Tennis Chain | Gem Type: Cubic Zirconia | Item Type: Bracelet',
+    badge: 'new',
     images: [
-      'https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg',
-      'https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg',
+       '/1002 (1).png',
     ],
     featured: false,
     in_stock: true,
-    created_at: '2026-03-10T09:00:00Z',
+    created_at: '2026-03-30T09:00:00Z',
   },
-
-
   
+  {
+    id: 'p-1003',
+    name: 'Mirror Antique Silver Dragonflies on Feather Cuff',
+    brand_line: 'the Elaine Coyne Collectible Artwear',
+    description: "Bring a touch of nature-inspired elegance to your jewelry collection with this striking Dragonfly and Feather cuff bracelet. Crafted in solid brass with a mirror antique silver finish, this piece features dual dragonflies set against a graceful feather motif, adorned with genuine Amethyst and Black Onyx cabochon gemstones. Handcrafted in the USA, this adjustable cuff combines artisan quality with timeless, wearable design.",
+    highlights: [
+      "ELEGANT DESIGN: Mirror antique silver dragonfly on feather cuff featuring genuine Amethyst and Black Onyx gemstones.",
+      "NATURE-INSPIRED MOTIF: Dual dragonflies on a feather design crafted in mirror antique silver plated solid brass.",
+      "GENUINE GEMSTONES: Authentic Amethyst and Black Onyx cabochon details enhance this dragonfly-plated brass cuff bracelet.",
+      "BRACELET DIMENSIONS: 3/4 inch wide dragonfly plated silver brass cuff style bracelet.",
+      "ADJUSTABLE FIT: Length ranges from 6 1/2 inches to 7 1/2 inches, adjustable to fit most wrists comfortably.",
+      "AMERICAN CRAFTSMANSHIP: Handcrafted and made in the USA.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 158,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['one size'],
+    colors: ['Leaf-White Gold','Leaf-Yellow Gold','Marquise-White Gold','Marquise-Yellow Gold'],
+    material: 'Brass | Metal Type: Brass | Clasp Type: No Clasp | Chain Type: Box Chain | Gem Type: Amethyst | Item Type: Cuff Bracelet',
+    badge: 'new',
+    images: [
+       '/1003 (1).png'
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
   
-  
+  {
+    id: 'p-1004',
+    name: 'Elaine Coyne Collectible Artwear Patina Brass Art Nouveau Lady with Flowers Cuff Bracelet - European Crystals',
+    brand_line: 'the Elaine Coyne Collectible Artwear Store',
+    description: "Celebrate the elegance of the Art Nouveau era with this striking cuff bracelet, featuring three graceful ladies set within a flowing floral motif crafted in verdigris patina brass. Adorned with Amethyst, Pale Rose, and Tanzanite European crystals, this 2-inch wide statement cuff captures the curved lines and femininity that defined this beloved artistic movement.",
+    highlights: [
+      "ART NOUVEAU DESIGN: Inspired by the 1890s–1920s Art Nouveau movement, celebrated for its curved lines, asymmetrical concepts, free expression, and femininity.",
+      "EUROPEAN ORIGINS: The Art Nouveau movement began in Europe and was soon embraced in America, influencing decades of artistic design.",
+      "LADY ON FLORAL MOTIF: Features three large round ladies set on a flowing floral design in rich verdigris patina brass.",
+      "EUROPEAN CRYSTALS: Adorned with Amethyst, Pale Rose, and Tanzanite European crystals for a timeless, colorful sparkle.",
+      "STATEMENT SIZE: 2-inch wide cuff style bracelet designed to make a bold, artistic statement.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 195,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['one size'],
+    colors: ['Antique Brass'],
+    material: 'Brass, Crystal | Metal Type: Brass | Clasp Type: No Clasp | Chain Type: Box Chain | Item Type: Bracelet',
+    badge: 'new',
+    images: [
+       '/1004 (1).png',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
   
   
   
