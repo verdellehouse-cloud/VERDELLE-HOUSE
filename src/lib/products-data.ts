@@ -1465,6 +1465,41 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-02-14T09:00:00Z',
   },
 
+  {
+    id: 'p-955',
+    name: 'Bulova Ladies Modern Gemini Diamond Silver and Gold Stainless Steel Watch,Tonneau Shape Blue Dial, Model: 98P218',
+    brand_line: 'Bulova',
+    description: `Discover modern sophistication with this watch from Bulova's Ladies' Modern Collection, featuring a striking geometric silhouette and cutting-edge design. The two-tone stainless steel case is beautifully accented with 3 diamonds and a metalized faceted mineral crystal for an elegant, eye-catching finish. With a clean two-hand display and 30M water resistance, this watch is as functional as it is stylish, backed by a 3 year limited warranty for lasting peace of mind.`,
+    highlights: [
+      'From Bulova Ladies Modern Collection, featuring a striking geometric silhouette and cutting-edge design',
+
+      'Two-tone stainless steel case accented with 3 diamonds for an elegant, eye-catching finish',
+
+      'Metalized faceted mineral crystal adds a unique, sophisticated touch to the dial',
+
+      '30M water resistance and a 3 year limited warranty for lasting quality',
+    ],
+    gender: 'women',
+    category: 'watches',
+    price: 296.25,
+    compare_at_price: 395,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue-Silver-Gold',
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Calendar, Diamond, Luminous | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Deployment Clasp with Push Button | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Push-Button | Item type name: Dress Watch',
+    badge: 'limited',
+    images: [
+      '/955.png'
+ 
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-14T09:00:00Z',
+  },
+
 
 
 
