@@ -1218,7 +1218,7 @@ export const PRODUCTS: Product[] = [
   {
     id: 'p-1004',
     name: 'Elaine Coyne Collectible Artwear Patina Brass Art Nouveau Lady with Flowers Cuff Bracelet - European Crystals',
-    brand_line: 'the Elaine Coyne Collectible Artwear Store',
+    brand_line: 'the Elaine Coyne Collectible Artwear',
     description: "Celebrate the elegance of the Art Nouveau era with this striking cuff bracelet, featuring three graceful ladies set within a flowing floral motif crafted in verdigris patina brass. Adorned with Amethyst, Pale Rose, and Tanzanite European crystals, this 2-inch wide statement cuff captures the curved lines and femininity that defined this beloved artistic movement.",
     highlights: [
       "ART NOUVEAU DESIGN: Inspired by the 1890s–1920s Art Nouveau movement, celebrated for its curved lines, asymmetrical concepts, free expression, and femininity.",
@@ -1243,6 +1243,129 @@ export const PRODUCTS: Product[] = [
     in_stock: true,
     created_at: '2026-03-30T09:00:00Z',
   },
+  
+    {
+    id: 'p-1005',
+    name: 'FANCIME Birthstone Adjustable Tennis Bracelet for Women Teardrop Gemstone Design, 14K Gold Plated Sterling Silver, Adjustable Slider Fit, Anniversary Birthday Gift for Her',
+    brand_line: 'FANCIME',
+    description: "Celebrate her birth month with this elegant teardrop tennis bracelet, featuring graceful birthstones set in precision prongs for a refined, timeless look. Crafted from 925 sterling silver with a 5-layer 14K gold plated finish, this nickel-free bracelet adjusts smoothly from 5.5–9.5 inches for a secure, comfortable fit. Presented in a beautiful gift box, it's a meaningful fine jewelry gift for birthdays, anniversaries, or any milestone worth celebrating.",
+    highlights: [
+      "ELEGANT TEARDROP TENNIS DESIGN: Graceful teardrop stones create a refined take on the classic tennis bracelet, beautiful worn alone or layered with watches and other bracelets.",
+      "12-MONTH BIRTHSTONE MEANINGS: Each month's stone carries its own special meaning, from January Garnet symbolizing passion and protection to December Turquoise symbolizing protection and good fortune.",
+      "ADJUSTABLE SLIDER FIT: Easy-slide clasp adjusts smoothly from 5.5–9.5 inches (14–24 cm) to fit most wrists, perfect for wearing alone or stacking.",
+      "925 STERLING SILVER & 14K GOLD PLATED: Crafted from 925 sterling silver with an advanced 5-layer 14K gold plated finish, nickel-free with precision prong settings for lasting brilliance.",
+      "MEANINGFUL GIFT FOR HER: Presented in a beautiful gift box, making it a thoughtful gift for birthdays, anniversaries, Valentine's Day, Mother's Day, or Christmas.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 118.15,
+    compare_at_price: 139,
+    currency: 'USD',
+    sizes: ['one size'],
+    colors: ['04-Apr','01-Jan','02-Feb','03-Mar','05-May','06-Jun-A','06-Jun-B','07-Jul','08-Aug','09-Sep','10-Oct-A','10-Oct-B','11-Nov',' 12-Dec-A','12-Dec-B'],
+    material: 'Length: 9.5 inches | Metal Type: Sterling Silver | Clasp Type: Adjustable Slider | Chain Type: Box Chain | Gem Type: Turquoise | Item Type: Tennis Bracelet',
+    badge: 'new',
+    images: [
+       '/1005 (1).png',
+       '/1005 (2).png',
+       '/1005 (3).png',
+       '/1005 (4).png',
+       '/1005 (5).png',
+       '/1005 (6).png',
+       '/1005 (7).png',
+       '/1005 (8).png',
+       '/1005 (9).png',
+       '/1005 (10).png',
+       '/1005 (11).png',
+       '/1005 (12).png',
+       '/1005 (13).png',
+       '/1005 (14).png',
+       '/1005 (15).png',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+  
+  
+    {
+    id: 'p-1006',
+    name: 'Austrian Crystal Party Prom Rose Flower Butterfly Bangle Bracelet for Women',
+    brand_line: ' EVER FAITH ',
+    description: "Inspired by one of the most beloved motifs in jewelry today, this flower-inspired cuff bracelet brings elegant, nature-inspired beauty to any outfit. Designed with graceful detail, it makes an ideal gift for a wife, fiancée, daughter, mother, or someone special — or simply as a treat for yourself. Arriving in a beautiful jewelry gift box, it's ready for weddings, anniversaries, birthdays, or everyday wear.",
+    highlights: [
+    "FLOWER-INSPIRED DESIGN: Inspired by floral motifs, one of the most popular subjects in the jewelry world, often seen as a favorite accessory among celebrities.",
+    "THOUGHTFUL GIFT: An ideal gift for a wife, fiancée, daughter, mother, special someone, or a treat for yourself.",
+    "BRACELET DIMENSIONS: Length 22cm (8.6\"), width 4.2cm (1.6\"), inside diameter 6cm (2.4\"), weighing 54g.",
+    "VERSATILE OCCASIONS: Perfect for weddings, anniversaries, Mother's Day, Valentine's Day, birthdays, parties, proms, or casual everyday wear.",
+    "ELEGANT GIFT PACKAGING: Arrives in a beautiful jewelry gift box, ready for any gift-giving occasion.",
+  ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 15.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['one size'],
+    colors: ['Light Blue','Black','Hot Pink','Iridescent Clear AB'],
+    material: 'Length: 6.9 inches | Material: Crystal | Metal Type: Alloy | Chain Type: Box Chain | Item Type: Bracelet',
+    badge: 'new',
+    images: [
+       '/1006 (1).png',
+       '/1006 (2).png',
+       '/1006 (3).png',
+       '/1006 (4).png',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+  
+   {
+    id: 'p-1007',
+    name: 'Miss Glorael Pearl Tennis Bracelet For Women, Adjustable CZ Bracelet',
+    brand_line: 'Glorael',
+    description: "Add elegant, everyday sparkle with this adjustable pearl and cubic zirconia tennis bracelet, featuring genuine pearls alternating with graduated 5A cubic zirconias in a bezel-set, snag-free design. The pearl slider adjusts chain length from 6.5\" to 8\" for a perfect fit, while the rhodium-plated, tarnish-free finish keeps it bright and hypoallergenic for sensitive skin. A timeless jewelry gift for birthdays, anniversaries, weddings, or any special occasion.",
+    highlights: [
+      "ADJUSTABLE SLIDER FIT: Pearl slider adjusts chain length from 6.5\" to 8\" to fit most wrist sizes, wearable loose or snug for daily wear or stacking.",
+      "PEARL & CUBIC ZIRCONIA DESIGN: Genuine pearls alternate with round 5A cubic zirconias that graduate from 6mm to 4mm, creating a sparkling tapered effect with snag-free, bezel-set links.",
+      "TARNISH-FREE SILVER FINISH: Rhodium plating delivers a bright white gold finish that resists fading and tarnishing, while being nickel-free and lead-free for hypoallergenic comfort.",
+      "EVERYDAY VERSATILITY: Transitions effortlessly from workdays to weekends, date nights, weddings, and vacations, whether worn alone or layered with other bracelets.",
+      "MEANINGFUL GIFT: A timeless jewelry gift for wives, girlfriends, moms, daughters, sisters, and friends, perfect for birthdays, anniversaries, Mother's Day, or Christmas.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 7.49,
+    compare_at_price: 14.99,
+    currency: 'USD',
+    sizes: ['one size'],
+    colors: ['pearl bracelet'],
+    material: 'Copper | Metal Type: Copper | Clasp Type: Slide | Chain Type: Bead Chain | Gem Type: Cubic Zirconia | Item Type: Bracelet',
+    badge: 'new',
+    images: [
+       '/1007 (1).png',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
