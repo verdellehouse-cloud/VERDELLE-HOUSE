@@ -821,7 +821,7 @@ export const PRODUCTS: Product[] = [
   },
 
 
-   {
+  {
     id: 'p-917',
     name: 'Movado Bold TR90 Mens Swiss Quartz Watch',
     brand_line: 'Movado',
@@ -1036,10 +1036,190 @@ export const PRODUCTS: Product[] = [
   },  
 
 
+  {
+    id: 'p-921',
+    name: 'Movado Museum Classic Mens Swiss Quartz Watch - Stainless Steel, Link Bracelet - Water Resistance 3ATM/30 Meters - Classic Luxury Timepiece - Gift for Him - 40mm',
+    brand_line: 'Movado',
+    description: `Experience the timeless elegance of the Movado Museum watch, featuring the brand's iconic black dial with the signature concave dot and a sophisticated stainless steel case and link bracelet. Fusing modern design with refined Swiss engineering, this watch is powered by precise, reliable quartz movement that requires minimal maintenance. With 30m water resistance, this watch withstands splashes and brief water exposure for everyday confidence. A true representation of the Movado ethos, this timepiece is designed to be a worry-free, timeless addition to your collection for years to come.`,
+    highlights: [
+      'Iconic black Museum dial with signature concave dot represents the essence of Movado design',
 
+      'Stainless steel case and link bracelet offer a sophisticated, timeless look',
 
+      'Refined Swiss quartz movement delivers precise timekeeping with minimal maintenance required',
 
+      '30m water resistance withstands splashes and brief water exposure for everyday wear',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 995,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black',
+      'Black Gold',
+      'Black Rose Gold',
+      'Black Rose Gold Two Tone'
 
+    ],
+    material: 'Display: Analog | Watch Movement Type: Swiss Quartz | Additional Features: Water Resistant, Sapphire Crystal, Diamond Markers | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 3 meters | Sport Type: Walking | Clasp Type: Push Button Deployment Clasp | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'bestseller',
+    images: [
+      '/921 (1).png',
+      '/921 (2).png',
+      '/921 (3).png',
+      '/921 (4).png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },  
+
+ {
+    id: 'p-922',
+    name: 'Movado Museum Classic Mens Watch - Swiss Quartz Movement, Calfskin Strap - 3 ATM Water Resistance - Classic, Luxury Fashion Timepiece for Him - 40mm',
+    brand_line: 'Movado',
+    description: `Experience the timeless elegance of the Movado Museum watch, featuring a sleek black PVD-finished stainless steel case, the brand's iconic black dial with signature concave dot, and a rich cognac leather strap for a sophisticated contrast. Fusing modern design with refined Swiss engineering, this watch is powered by precise, reliable quartz movement that requires minimal maintenance. With 30m water resistance, this watch withstands splashes and brief water exposure for everyday confidence. A true representation of the Movado ethos, this timepiece is designed to be a worry-free, timeless addition to your collection for years to come.`,
+    highlights: [
+      'Iconic black Museum dial with signature concave dot paired with a black PVD-finished stainless steel case',
+
+      'Rich cognac leather strap adds sophisticated contrast to the sleek, modern design',
+
+      'Refined Swiss quartz movement delivers precise timekeeping with minimal maintenance required',
+
+      '30m water resistance withstands splashes and brief water exposure for everyday wear',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 750,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Black',
+      'Black Silver',
+      'Black Gold'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Swiss Quartz | Additional Features: Scratch-Resistant | Power Source: Battery Powered | Strap Type: Two Piece Strap | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Tang Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'bestseller',
+    images: [
+      '/922 (1).png',
+      '/922 (2).png',
+      '/922 (3).png'
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },  
+
+  {
+    id: 'p-923',
+    name: 'MASTOP Colorful Rectangular Sports Watch with Electronic Display 50 Meter Waterproof Time Week Calendar El Night Light Display 12/24h Transparent Shell Watch',
+    brand_line: 'MASTOP',
+    description: `Add youthful, sporty style to your everyday look with this multi-functional watch, featuring a colorful layered shell and trendy transparent design that showcases vibrant energy. Practical features include time, date, EL night light display, and 12/24H format, all protected by an anti-slip resin mirror and durable PC hard shell. The soft, comfortable silicone strap with stainless steel buckle ensures a secure fit, while 50M water resistance lets you swim and bathe in cold water with confidence. Suitable for both men and women, this fun, versatile watch makes a great gift for birthdays, anniversaries, or any special occasion.`,
+    highlights: [
+      'Colorful layered shell and transparent design showcase fun, youthful sporty style',
+
+      'Multi-functional display includes time, date, EL night light, and 12/24H format',
+
+      'Soft, comfortable silicone strap with stainless steel buckle for a secure everyday fit',
+
+      '50M water resistance supports swimming and bathing in cold water',
+
+      'Suitable for both men and women, making it a great gift for any occasion',
+    ],
+    gender: 'unisex',
+    category: 'watches',
+    price: 19.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Orange',
+      'Black Black',
+      'Black White',
+      'Blue Red',
+      'Brown',
+      'Green',
+      'White White'
+
+    ],
+    material: 'Display: Digital | Watch Movement Type: Electronic | Additional Features: Easy Reader, Glow In The Dark, Lightweight, Scratch-Resistant, Water Resistant | Power Source: Battery Powered | Water Resistance Depth: 50 meters | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Closure Type: Buckle',
+    badge: 'new',
+    images: [
+      '/923 (1).png',
+      '/923 (2).png',
+      '/923 (3).png',
+      '/923 (4).png',
+      '/923 (5).png',
+      '/923 (6).png',
+      '/923 (7).png',
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },  
+
+  {
+    id: 'p-924',
+    name: 'Luxury Mens Crystal Watch Quartz Analog Watch Big Face Diamond Bracelet',
+    brand_line: 'SENRUD',
+    description: `Make a bold statement with this bling hip-hop watch, fully encrusted with shiny rhinestones on the bezel and entire metal bracelet for a luxurious, flashy look perfect for streetwear or a night out. The elegant Roman numeral dial with a date window at 3 o'clock and high-contrast hands ensures quick, clear time reading in any lighting. Versatile enough to pair with leather jackets, jeans, or business suits, this classic luxury design balances trendy street style with semi-formal aesthetics. The adjustable solid link metal band fits wrists of all sizes, and 3ATM water resistance handles hand washing, splashes, and light rain. This eye-catching watch makes an ideal gift for a boyfriend, husband, or son on any special occasion.`,
+    highlights: [
+      'Fully encrusted with shiny rhinestones on the bezel and bracelet for a luxurious, flashy hip-hop look',
+
+      'Roman numeral dial with date window and high-contrast hands for quick, clear time reading',
+
+      'Versatile design pairs with leather jackets, jeans, casual shirts, or business suits',
+
+      'Adjustable solid link metal band fits small, medium, and large wrist sizes',
+
+      '3ATM water resistance handles hand washing, splashes, and light rain for daily wear',
+    ],
+    gender: 'men',
+    category: 'watches',
+    price: 19.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Gold',
+      'Blue',
+      'Black',
+      'Gold Red',
+      'Gold Blue' ,
+      'Red',
+      'Green',
+      'Silver',
+      'Silver Blue',
+      'Silver Red'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Date | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Folding Clasp with Safety | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle | Item type name: Fashion watch',
+    badge: 'new',
+    images: [
+      '/924 (1).png',
+      '/924 (2).png',
+      '/924 (3).png',
+      '/924 (4).png',
+      '/924 (5).png',
+      '/924 (6).png',
+      '/924 (7).png',
+      '/924 (8).png',
+      '/924 (9).png',
+      '/924 (10).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },    
+ 
 
 
 
@@ -1048,25 +1228,98 @@ export const PRODUCTS: Product[] = [
 
 
                       //////Women Watches
-
   {
-    id: 'p-011',
-    name: 'Mother-of-Pearl Dress Watch',
-    brand_line: 'Maison Verdelle',
-    description:
-      'A 32mm dress watch with a mother-of-pearl dial and a slim satin strap. Quartz movement, sapphire crystal, water resistant to 30m.',
+    id: 'p-950',
+    name: 'Diaofendi 3 Sizes (S/M/L) Small Gold Watches for Women - Fit 5"-8" Expansion Band, Valentines Day Gifts for Mom Wife, Easy Read Ladies Quartz Watch, Water Resistant',
+    brand_line: 'Diaofendi',
+    description: `Experience effortless comfort with this expansion band watch, available in 3 precise sizes for a customized, snug fit without pinching or pulling hair. The stretchable band slips on and off in seconds, perfect for busy mornings, while the classic dial with high-contrast Arabic numerals makes time-reading instant and easy. Powered by premium Japanese quartz movement, this watch delivers reliable accuracy, protected by scratch-resistant mineral glass for lasting durability. With 30M water resistance, this elegant gold-tone watch withstands splashes, rain, and everyday wear. Presented in an exquisite brand box, it's a thoughtful gift for a wife, mom, or grandma on Valentine's Day or any special occasion.`,
+    highlights: [
+      'Customized fit available in 3 precise sizes with a stretchable expansion band that slips on in seconds',
+
+      'Classic dial with high-contrast Arabic numerals makes time-reading instant and effortless',
+
+      'Premium Japanese quartz movement paired with scratch-resistant mineral glass for lasting accuracy',
+
+      '30M water resistance withstands splashes, rain, and sweat during everyday activities',
+
+      'Presented in an exquisite gift box, perfect for Valentine\'s Day or any special occasion',
+    ],
     gender: 'women',
     category: 'watches',
-    price: 1450,
-    compare_at_price: 1650,
+    price: 32.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['S(5.51"-7")' , 'M(5.9"-7.5")' , 'L(6.3"-8")'],
+    colors: [
+      'All Gold',
+      'Gold',
+      'Gold Pink',
+      'Silver',
+      'Two-Tone'
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Japanese Quartz | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Buckle | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: 'new',
+    images: [
+      '/950 (1).png',
+      '/950 (2).png',
+      '/950 (3).png',
+      '/950 (4).png',
+      '/950 (5).png'
+      
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-28T09:00:00Z',
+  },  
+
+  {
+    id: 'p-951',
+    name: 'Women Vintage Rome Watch Oval Case Dress Watches Adjustable Stainless Steel Watch Band Waterproof watch Analog Quartz Watch',
+    brand_line: 'VILKFY',
+    description: `Add timeless elegance to your wardrobe with this vintage-inspired oval watch, featuring a luxurious gold-tone finish that complements both casual and formal outfits. Reliable quartz movement delivers precise timekeeping, while scratch-resistant mineral glass and a durable stainless steel band and case ensure lasting quality. The smooth, adjustable band offers comfortable wear for long periods, and comes with a removal tool to customize your perfect fit. With 30M water resistance suitable for everyday wear, this eye-catching watch is available in multiple dial and band color options, making it a thoughtful gift for a wife, mom, or friend on any special occasion.`,
+    highlights: [
+      'Timeless vintage oval design with a luxurious gold-tone finish suits casual and formal outfits',
+
+      'Reliable quartz movement with scratch-resistant mineral glass ensures precise, lasting performance',
+
+      'Adjustable stainless steel band with included removal tool for a customized, comfortable fit',
+
+      '30M water resistance makes this watch suitable for everyday wear',
+
+      'Available in multiple dial and band color options, perfect as a gift for any occasion',
+    ],
+    gender: 'women',
+    category: 'watches',
+    price: 19.99,
+    compare_at_price: 24.99,
     currency: 'USD',
     sizes: ['One Size'],
-    colors: ['White Dial', 'Blush Dial'],
-    material: 'Stainless Steel',
-    badge: 'bestseller',
+    colors: [
+      'Two-Tone gold',
+      'Gold',
+      'Gold strap with green dial',
+      'Gold white',
+      'Green',
+      'H-Green',
+      'H-Silver',
+      'H-Two Tone',
+      'Silver',
+      'Two Tone'
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Water Resistant | Strap Type: Adjustable | Clasp Type: Jewelry Clasp | Water Resistance Level: Waterproof',
+    badge: null,
     images: [
-      '/1000 (1).png',
-      '/1000 (2).png',
+      '/951 (1).png',
+      '/951 (2).png',
+      '/951 (3).png',
+      '/951 (4).png',
+      '/951 (5).png',
+      '/951 (6).png',
+      '/951 (7).png',
+      '/951 (8).png',
+      '/951 (9).png',
+      '/951 (10).png',
  
     ],
     featured: true,
@@ -1074,6 +1327,178 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-02-14T09:00:00Z',
   },
 
+  {
+    id: 'p-952',
+    name: 'Luxury Square Watch Roman Numerals Dial Dress Watch Quartz Watch for Women Stainless Steel Bracelet',
+    brand_line: 'VILKFY',
+    description: `Add fashionable shine to your wardrobe with this elegant watch, featuring a gold or silver band and case that catches the light beautifully in the sun. The retro case and easy-to-read Roman numeral dial are powered by precise, reliable quartz movement for accurate timekeeping day after day. Designed for everyday comfort, the adjustable links ensure a customized fit, with a complimentary tool included for easy sizing. With water resistance that handles hand washing and splashes, this versatile watch is a thoughtful gift for a wife, mom, or sister on any special occasion.`,
+    highlights: [
+      'Fashionable gold or silver band and case catches the light beautifully in the sun',
+
+      'Precise quartz movement with retro case and easy-to-read Roman numeral dial',
+
+      'Adjustable links with a complimentary tool ensure a customized, comfortable fit',
+
+      'Water resistance handles hand washing and splashes for everyday wear',
+
+      'A thoughtful gift option for a wife, girlfriend, mom, aunt, or sister',
+    ],
+    gender: 'women',
+    category: 'watches',
+    price: 20.99,
+    compare_at_price: 24.99,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Gold',
+      'Silver'
+    
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Waterproof | Power Source: Battery Powered | Strap Type: Bracelet | Clasp Type: Buckle | Water Resistance Level: Waterproof | Closure Type: Buckle',
+    badge: 'limited',
+    images: [
+      '/952 (1).png',
+      '/952 (2).png',
+
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-14T09:00:00Z',
+  },
+
+ {
+    id: 'p-953',
+    name: 'Gosasa Elegant Womens Quartz Watch, Dainty Dress Watch with Crystal Accents',
+    brand_line: 'Gosasa',
+    description: `Add sophisticated sparkle to your wardrobe with this elegant diamond-cut dial watch, featuring faceted crystal-inspired detailing and sparkling zircon accents for an eye-catching look. Available with a soft leather strap or refined stainless steel bracelet band, this watch offers lasting comfort paired with a coated glass window that resists daily scratches. The slim 30mm case and lightweight design make this dainty watch versatile enough for casual, business, or dressy outfits. With 3ATM water resistance, this reliable quartz watch handles splashes, hand washing, and light rain, making it a beautiful, functional accessory for everyday wear or special occasions.`,
+    highlights: [
+      'Elegant diamond-cut dial with sparkling zircon accents creates a sophisticated, eye-catching look',
+
+      'Available with a soft leather strap or refined stainless steel bracelet band for lasting comfort',
+
+      'Slim 30mm lightweight case pairs effortlessly with casual, business, or dressy outfits',
+
+      '3ATM water resistance handles splashes, hand washing, and light rain for everyday wear',
+
+      'A beautiful, functional accessory perfect for everyday wear or special occasions',
+    ],
+    gender: 'women',
+    category: 'watches',
+    price: 21.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'green S',
+      'Green L',
+      'Purple S',
+      'Red S',
+      'Red L',
+      'S-Blue',
+      'S-Coffee',
+      'S-Purple',
+      'T-Blue',
+      'T-Purple',
+      'U-Blue',
+      'Purple L'
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Easy Reader | Power Source: Battery Source | Strap Type: Two Piece Strap | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Buckle | Water Resistance Level: Waterproof | Embellishment Feature: Crystal | Closure Type: Buckle',
+    badge: null,
+    images: [
+      '/953 (1).png',
+      '/953 (2).png',
+      '/953 (3).png',
+      '/953 (4).png',
+      '/953 (5).png',
+      '/953 (6).png',
+      '/953 (7).png',
+      '/953 (8).png',
+      '/953 (9).png',
+      '/953 (10).png',
+      '/953 (11).png',
+ 
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-14T09:00:00Z',
+  },
+
+  {
+    id: 'p-954',
+    name: 'Gosasa Luxury Unisex Crystal Diamond Watches Big Face Womens Mens Watch',
+    brand_line: 'Gosasa',
+    description: `Make a dazzling statement with this bling diamond watch, featuring shimmering diamond accents on the strap, bezel, and dial for a luxurious look that catches the light beautifully. Meticulously crafted for a unisex, fashion-forward style, this watch features a stainless steel polished back cover, fluorescent pointer hands, and a convenient date window at 3 o'clock. Powered by imported Japanese quartz movement, this watch delivers strong stability and accurate timekeeping, with an included adjustment tool for a customized fit. With 3 ATM water resistance suitable for everyday and rainy conditions, this stunning piece makes a perfect gift for graduations, anniversaries, birthdays, or any special occasion.`,
+    highlights: [
+      'Shimmering diamond accents on the strap, bezel, and dial create a bling, eye-catching luxury look',
+
+      'Unisex design features a stainless steel polished back and fluorescent hands with a date window',
+
+      'Imported Japanese quartz movement delivers strong stability and accurate timekeeping',
+
+      'Includes an adjustment tool to customize the band length for a comfortable fit',
+
+      '3 ATM water resistance suitable for daily wear, perfect as a gift for any special occasion',
+    ],
+    gender: 'unisex',
+    category: 'watches',
+    price: 19.99,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Silver',
+      'Y Gold',
+      'Z Rose Gold',
+      
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Calendar, Diamond, Luminous | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Deployment Clasp with Push Button | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Push-Button | Item type name: Dress Watch',
+    badge: 'new',
+    images: [
+      '/954 (1).png',
+      '/954 (2).png',
+      '/954 (3).png',
+
+ 
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-14T09:00:00Z',
+  },
+
+  {
+    id: 'p-955',
+    name: 'Bulova Ladies Modern Gemini Diamond Silver and Gold Stainless Steel Watch,Tonneau Shape Blue Dial, Model: 98P218',
+    brand_line: 'Bulova',
+    description: `Discover modern sophistication with this watch from Bulova's Ladies' Modern Collection, featuring a striking geometric silhouette and cutting-edge design. The two-tone stainless steel case is beautifully accented with 3 diamonds and a metalized faceted mineral crystal for an elegant, eye-catching finish. With a clean two-hand display and 30M water resistance, this watch is as functional as it is stylish, backed by a 3 year limited warranty for lasting peace of mind.`,
+    highlights: [
+      'From Bulova Ladies Modern Collection, featuring a striking geometric silhouette and cutting-edge design',
+
+      'Two-tone stainless steel case accented with 3 diamonds for an elegant, eye-catching finish',
+
+      'Metalized faceted mineral crystal adds a unique, sophisticated touch to the dial',
+
+      '30M water resistance and a 3 year limited warranty for lasting quality',
+    ],
+    gender: 'women',
+    category: 'watches',
+    price: 296.25,
+    compare_at_price: 395,
+    currency: 'USD',
+    sizes: ['One Size'],
+    colors: [
+      'Blue-Silver-Gold',
+
+    ],
+    material: 'Display: Analog | Watch Movement Type: Quartz | Additional Features: Calendar, Diamond, Luminous | Power Source: Battery Powered | Strap Type: Bracelet | Water Resistance Depth: 30 meters | Sport Type: Walking | Clasp Type: Deployment Clasp with Push Button | Water Resistance Level: Water Resistant | Embellishment Feature: Crystal | Closure Type: Push-Button | Item type name: Dress Watch',
+    badge: 'limited',
+    images: [
+      '/955.png'
+ 
+    ],
+    featured: true,
+    in_stock: true,
+    created_at: '2026-02-14T09:00:00Z',
+  },
 
 
 
@@ -1116,7 +1541,7 @@ export const PRODUCTS: Product[] = [
     material: 'Ring Type: Eternity Ring | Style: American | Color: Rose Gold | Occasion: Christmas, Engagement, Thanksgiving, Valentines Day | Collection: Winter | Stone: D Color, Princess Cut/Shape, VVS Clarity | Setting: Prong',
     badge: 'new',
     images: [
-       '/1000 (1).png',
+      '/1000 (1).png',
       '/1000(2).png',
     ],
     featured: false,
