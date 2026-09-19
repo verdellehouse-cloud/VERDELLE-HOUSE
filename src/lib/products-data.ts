@@ -1844,6 +1844,34 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-03-30T09:00:00Z',
   },
   
+    {
+    id: 'p-1010',
+    name: 'Amazon Collection Sterling Silver Diamond Heart Pendant Necklace',
+    brand_line: 'Amazon Essentials Store',
+    description: "Express timeless elegance with this open heart pendant necklace, crafted in 18K gold over sterling silver and set with 0.1 cttw genuine diamonds in a graceful curvy silhouette. Suspended on an 18-inch rope chain with a secure spring ring clasp, this delicate necklace adds a heartfelt sparkle to everyday wear or special occasions.",
+    highlights: [
+      "TIMELESS OPEN HEART STYLE: 18K gold over sterling silver necklace featuring an open heart pendant, 20.5mm wide and 22.2mm long, with inset 0.1 cttw diamonds in a curvy silhouette.",
+      "GENUINE DIAMONDS: Set with 0.10 total carat weight round white diamonds (J-K color, I3 clarity) for authentic, understated sparkle.",
+      "ROPE CHAIN DESIGN: Comes on an 18-inch rope chain finished with a secure spring ring clasp.",
+      "CARE INSTRUCTIONS: Store in a cool, dry place in its own container or compartment, avoiding extreme temperatures, perfume, and household cleaning products.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 44.90 ,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['18 inches'],
+    colors: ['Yellow Gold','Silver'],
+    material: 'Metal | Metal Type: Sterling Silver | Clasp Type: Spring Ring | Chain Type: Rope Chain | Metal Weight: 2.65 g',
+    badge: 'new',
+    images: [
+       '/1010 (1).png',
+       '/1010 (2).png',
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
   
   
   
