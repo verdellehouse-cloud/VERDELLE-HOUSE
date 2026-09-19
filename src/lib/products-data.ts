@@ -1542,7 +1542,7 @@ export const PRODUCTS: Product[] = [
     badge: 'new',
     images: [
       '/1000 (1).png',
-      '/1000 (2).png',
+      '/1000 (3).png',
     ],
     featured: false,
     in_stock: true,
