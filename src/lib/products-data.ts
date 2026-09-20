@@ -2131,11 +2131,183 @@ export const PRODUCTS: Product[] = [
     created_at: '2026-03-30T09:00:00Z',
   },
   
+    {
+    id: 'p-1019',
+    name: 'PAVOI 14K Gold Plated CZ Bypass Ring, Stacking Band for Women',
+    brand_line: 'PAVOI',
+    description: "Add effortless sparkle to your stack with this stationed-style ring, featuring two bezel-set premium cubic zirconia stones on a sleek 1.2mm band. Crafted with 14K yellow gold plating and premium AAAAA cubic zirconia, this hypoallergenic ring offers lasting comfort and shine for everyday wear or special occasions, arriving in an elegant gift box ready to surprise someone special.",
+    highlights: [
+      "STATIONED STACKABLE DESIGN: Two bezel-set premium cubic zirconia stones on a 1.2mm band create the perfect stackable look with a long-lasting finish.",
+      "PREMIUM QUALITY: Crafted with 14K yellow gold plating and premium AAAAA cubic zirconia, this hypoallergenic ring is nickel-safe, lead-safe, and cadmium-compliant, meeting strict U.S. and EU standards.",
+      "PERFECT GIFT FOR HER: Arrives in an elegant premium box ready for gifting — ideal for surprising a mom, wife, daughter, girlfriend, or best friend for any occasion.",
+      "SATISFACTION GUARANTEE: Backed by a 60-day satisfaction promise from a proud American-owned business committed to quality and exceptional customer service.",
+      "SUSTAINABLY CRAFTED: Made from 100% recycled materials and packaged in 99% recycled materials, supporting a business committed to reducing environmental impact.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 14.95  ,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['5','6','7','8','9'],
+    colors: ['White Gold','Yellow Gold'],
+    material: 'Yellow Gold | Metal Type: Yellow Gold | Gem Type: Cubic Zirconia | Item Type: Ring',
+    badge: 'new',
+    images: [
+       '/1019 (1).png',
+       '/1019 (2).png',
+       
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+    
+    
+    {
+    id: 'p-1020',
+    name: 'SILANER Crystal Charms Multilayer Bracelets - 3PCS Gold/Silver/Rose Gold Corn Chain Bracelet for Women, Tree of Life Heart Shaped Stretch Bracelet',
+    brand_line: 'SILANER',
+    description: "Adorn your wrist with this Tree of Life Stretch Bracelet set, featuring heart-shaped crystal charms in a multilayer design available in gold, silver, and rose gold plating. Handmade from high-quality, hypoallergenic copper, this set of 3 stretchy bracelets can be worn together or separately, offering versatile style for travel, parties, or everyday wear. A thoughtful gift for birthdays, anniversaries, or any special occasion.",
+    highlights: [
+      "HIGH QUALITY MATERIAL: Made of high-quality copper with gold, silver, and rose gold plating, handcrafted with lead-free, nickel-free zinc alloy for anti-allergic, sensitive-skin-safe wear.",
+      "UNIQUE DESIGN: Features heart-shaped crystal charms and a tree of life charm, with crystals finished under advanced microscope technology for elegant, gleaming sparkle.",
+      "ADJUSTABLE LENGTH: Approximately 7.5 inches with a retractable cord, suitable for most wrists. Set includes 3 different color bracelets that can be worn together or separately.",
+      "PERFECT FOR ANY OCCASION: Pairs beautifully with dresses, T-shirts, or straw hats for travel, vacations, or parties, making you the most attractive person in the crowd.",
+      "THOUGHTFUL GIFT: A meaningful gift for a girlfriend, wife, mother, sister, or friend for birthdays, Christmas, anniversaries, or weddings.",
+      "EXCEPTIONAL SERVICE: SILANER is committed to a delightful shopping experience — reach out anytime with questions or concerns.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 7.99 ,
+    compare_at_price:  8.99,
+    currency: 'USD',
+    sizes: ['7.5'],
+    colors: ['Solid Hearts Charm - 3 PCS',' Heart Charm Bracelets - 3 PCS','Love Heart Charm - 3 PCS','Mom and Daughter - 3 PCS',' Pave Crystal Heart Charm - 3 PCS','Rose Gold Rose Charm Bracelets - 3 PCS','Silver Daisy Charm - 3 PCS',' Silver Rose Charm - 3 PCS','Solid Butterfly Charm - 3 PCS',' Tree of Life Heart Edition Charm - 12 PCS','Tree of Life Heart Edition Charm - 3 PCS','Tree of Life Round Charm - 3 PCS'],
+    material: 'Copper | Metal Type: Copper | Clasp Type: Lobster Claw | Chain Type: Popcorn Chain | Gem Type: Crystal | Item Type: Bracelet',
+    badge: 'new',
+    images: [
+       '/1020 (1).png',
+       '/1020 (2).png',
+       '/1020 (3).png',
+       '/1020 (4).png',
+       '/1020 (5).png',
+       '/1020 (6).png', 
+       '/1020 (7).png',
+       '/1020 (8).png',
+       '/1020 (9).png',
+       '/1020 (10).png',
+       '/1020 (11).png',
+       '/1020 (12).png', 
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
   
   
   
   
-  
+     {
+    id: 'p-1021',
+    name: '(10339-200) Wedding Bracelet Gold Crystal Rhinestone 3 Row Stretch Bracelet',
+    brand_line: 'Topwholesalejewel',
+    description: "Add a touch of elegance to any ensemble with this stylish fashion jewelry piece, crafted with high-quality, lead-free, hypoallergenic plating. Measuring 3.5 inches in length, it's a thoughtful accessory for weddings, graduations, parties, or everyday wear, making it a perfect gift for yourself or someone special.",
+    highlights: [
+      "PREMIUM DIMENSIONS: Measures 3.5 inches in length for a comfortable, versatile fit.",
+      "HIGH-QUALITY PLATING: Crafted with lead-free, hypoallergenic plating for safe, comfortable everyday wear.",
+      "THOUGHTFUL GIFT: A stylish and meaningful gift for yourself or a loved one, adding elegance to any occasion.",
+      "VERSATILE FOR ANY EVENT: Suitable for weddings, engagements, graduations, parties, proms, and daily wear.",
+      "SATISFACTION GUARANTEE: Topwholesalejewel is committed to offering quality fashion jewelry at affordable prices, with dedicated support for any questions or concerns.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 11.99   ,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['one size'],
+    colors: ['Crystal'],
+    material: 'Acrylic | Metal Type: Gold Plated | Clasp Type: No Clasp | Chain Type: Other | Gem Type: Crystal | Item Type: Bracelets',
+    badge: 'new',
+    images: [
+       '/1021 (1).png',
+       
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+    
+     {
+    id: 'p-1022',
+    name: 'YUNKAI Sterling Silver Opal Bracelet for Women, 6.5"+2" Adjustable Opal Link Bracelet, White/Golden Dainty Hypoallergenic October Birthstone Jewelry Gift for Her',
+    brand_line: 'YUNKAI',
+    description: "Add celestial charm to any outfit with this Sun & Moon bracelet, featuring a stunning design symbolizing hope, warmth, beauty, and happiness. Crafted from high-quality 925 sterling silver with a secure prong-set synthetic opal, this hypoallergenic bracelet adjusts to fit most wrists and arrives in a luxurious velvet-lined box, making it a wonderful gift for birthdays, anniversaries, or any special occasion.",
+    highlights: [
+      "SUN & MOON DESIGN: The sun symbolizes hope, goodness, light, and strength, while the moon symbolizes beauty and happiness, adding celestial charm to any outfit.",
+      "PREMIUM MATERIALS: Crafted from high-quality 925 sterling silver with a secure prong-set synthetic opal, hypoallergenic and free of nickel, lead, and cadmium for long-term wear.",
+      "ADJUSTABLE SIZE: Features a 5mm round cut opal with a bracelet length of 16.5+5cm (6.5+2 inch) extender, adjustable to suit most wrists for daily or special occasion wear.",
+      "WONDERFUL GIFT: Arrives in a luxurious velvet-lined box, making it an excellent gift choice for yourself, mother, girlfriend, or wife for birthdays, anniversaries, or Christmas.",
+      "AFTER-SALE SERVICE: Dedicated support team ready to help resolve any concerns, ensuring your satisfaction is always the top priority.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 33.99   ,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: ['5mm*1pcs opal','6mm*1pcs opal'],
+    colors: ['White','Yellow '],
+    material: 'Sterling Silver | Metal Type: Sterling Silver | Clasp Type: Lobster Claw | Chain Type: Link Chain | Item Type: Bracelet',
+    badge: 'new',
+    images: [
+       '/1022 (1).png',
+       '/1022 (2).png',
+       '/1022 (3).png',
+       '/1022 (4).png',
+       
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+
+   {
+    id: 'p-1023',
+    name: 'HPQQ Anklet Bracelet for Women 925 Sterling Silver Natural Stone Chain Ankle Bracelet Beach Summer Fine Jewelry Christmas Birthday Gifts for Wife Mom Her',
+    brand_line: 'HPQQ',
+    description: "Bring a touch of natural beach charm to your summer look with this Abalone Shell Anklet, featuring 7 genuine abalone stones on a sterling silver chain embellished with 5A cubic zirconia. Adjustable to fit most ankles with a secure sterling silver clasp, this hypoallergenic anklet is nickel-free, lead-free, and cadmium-free. Arriving in a beautiful gift box, it's a thoughtful gift for birthdays, anniversaries, or any special occasion.",
+    highlights: [
+      "ABALONE SHELL DESIGN: Features 7 natural abalone stones, perfect for pairing with your best summer outfit or a day at the beach.",
+      "ADJUSTABLE SIZE: Anklet length of 9+2 inches, fastened with a secure sterling silver clasp to fit most women's ankles.",
+      "925 STERLING SILVER CHAIN: Made of S925 sterling silver embellished with 5A cubic zirconia, nickel-free, lead-free, cadmium-free, and hypoallergenic for durable, tarnish-resistant wear.",
+      "GREAT GIFT IDEA: A special gift for mom, girlfriend, wife, or friend, arriving in a beautiful gift box ready for birthdays, anniversaries, or Christmas.",
+      "EXCELLENT SERVICE: HPQQ Jewelry is committed to quality design and customer satisfaction, with dedicated support for any questions or concerns.",
+    ],
+    gender: 'women',  
+    category: 'jewelry',
+    price: 58.99   ,
+    compare_at_price: null,
+    currency: 'USD',
+    sizes: [' Anklet 9"-11"'],
+    colors: ['White Gold-Moonstone','White Gold-Black Onyx','White Gold-Moss Agate','White Gold-Opal','White Gold-Turquoise','White Gold-Z-Heart Opal','White Gold-Abalone'],
+    material: 'Sterling Silver | Metal Type: Sterling Silver | Clasp Type: Lobster Claw | Chain Type: Rolo Chain | Metal Weight: 4 g | Gem Type: Abalone',
+    badge: 'new',
+    images: [
+       '/1023 (1).png',
+       '/1023 (2).png',
+       '/1023 (3).png',
+       '/1023 (4).png',
+       '/1023 (5).png',
+       '/1023 (6).png',
+       '/1023 (7).png',
+       
+    ],
+    featured: false,
+    in_stock: true,
+    created_at: '2026-03-30T09:00:00Z',
+  },
+
+
+    
   
   
   
@@ -6099,6 +6271,7 @@ export const PRODUCTS: Product[] = [
   },
 
 
+  
 
 
 
@@ -6577,6 +6750,42 @@ export const PRODUCTS: Product[] = [
   },
  
  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
